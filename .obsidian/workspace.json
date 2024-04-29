@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cfdbe530987875b6",
+        "id": "5a2718f6dbe98256",
         "type": "tabs",
         "children": [
           {
-            "id": "f24a6e42a3b24811",
+            "id": "06bfbf2e906795c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Basket/test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -62,15 +66,26 @@
             }
           },
           {
-            "id": "c51642a80f187ebe",
+            "id": "189b0303c6b4888f",
             "type": "leaf",
             "state": {
               "type": "trash-explorer",
               "state": {}
             }
+          },
+          {
+            "id": "da6a4794a11671bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -90,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Basket/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,36 +122,58 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Basket/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6f3f5a5ca4544c96",
+        "type": "tabs",
+        "children": [
           {
-            "id": "da6a4794a11671bb",
+            "id": "c79d755481463977",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "localgraph",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "02 - Basket/test.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               }
-            }
-          },
-          {
-            "id": "e89d3e8f8629c58b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +186,9 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "c51642a80f187ebe",
+  "active": "2b175ea27ea53b34",
   "lastOpenFiles": [
+    "02 - Basket/test.md",
     "02 - Basket/2.md",
     "02 - Basket/1.md",
     "02 - Basket",
