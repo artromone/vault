@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "08fd304cc0cbcee5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfdbe530987875b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f24a6e42a3b24811",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e68b313b191a1737",
+    "type": "split",
+    "children": [
+      {
+        "id": "5043f7a24d77c730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29fc0a84c71f55d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "118d69e25a436c7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9367c6bbbb6095e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c51642a80f187ebe",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68a682f3ec7be0f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c6498c63fc547d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b175ea27ea53b34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4a8d6943d40ea31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da6a4794a11671bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e89d3e8f8629c58b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-trash-explorer:Open trash explorer": false
+    }
+  },
+  "active": "c51642a80f187ebe",
+  "lastOpenFiles": [
+    "02 - Basket/2.md",
+    "02 - Basket/1.md",
+    "02 - Basket",
+    "03 - Assets/Pasted image 20240429221654.png",
+    "02 - Basket/3.md",
+    "Untitled.md",
+    "Pasted image 20240429221434.png",
+    "e.md",
+    "d.md",
+    "06 - Reference",
+    "05 - Export",
+    "04 - Canvas",
+    "03 - Assets",
+    "01 - Atomics",
+    "00 - System",
+    "Welcome.md"
+  ]
+}

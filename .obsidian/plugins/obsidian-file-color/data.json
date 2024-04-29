@@ -1,0 +1,34 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "mfCBU7sIr1-ilX6qgKZXT",
+      "name": "white",
+      "value": "#ffffff"
+    },
+    {
+      "id": "4JOYcgeDtSRRoAEpYNQxI",
+      "name": "main",
+      "value": "#7396fa"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 - System",
+      "color": "4JOYcgeDtSRRoAEpYNQxI"
+    },
+    {
+      "path": "01 - Atomics",
+      "color": "mfCBU7sIr1-ilX6qgKZXT"
+    },
+    {
+      "path": "06 - Reference",
+      "color": "mfCBU7sIr1-ilX6qgKZXT"
+    },
+    {
+      "path": "02 - Basket",
+      "color": "mfCBU7sIr1-ilX6qgKZXT"
+    }
+  ]
+}
