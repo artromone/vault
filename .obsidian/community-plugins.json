@@ -8,5 +8,7 @@
   "symbols-prettifier",
   "obsidian-underline",
   "mousewheel-image-zoom",
-  "obsidian-paste-png-to-jpeg"
+  "obsidian-paste-png-to-jpeg",
+  "obsidian-core-search-assistant-plugin",
+  "settings-search"
 ]
