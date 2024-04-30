@@ -3,5 +3,9 @@
   "newFileFolderPath": "02 - Basket",
   "attachmentFolderPath": "03 - Assets",
   "trashOption": "local",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showLineNumber": false
 }
