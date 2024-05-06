@@ -12,7 +12,7 @@ folder_name="$1"
 email="$2"
 
 # Move one level up
-cd..
+# cd ..
 
 # Find and archive the folder
 tar -czf "${folder_name}.tar.gz" "${folder_name}"

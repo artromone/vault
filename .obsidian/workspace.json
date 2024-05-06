@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8aacfcfaca7d4800",
+        "id": "85fe0beedb6cf7c0",
         "type": "tabs",
         "children": [
           {
-            "id": "822c5beb7bb57c83",
+            "id": "7a8fe2bd3e56ea66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Basket/Хедер (заголовок).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "944791b04b80bed9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Basket/Взаимодействие уровней друг с другом.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,7 +27,7 @@
       {
         "id": "5043f7a24d77c730",
         "type": "tabs",
-        "dimension": 52.19178082191781,
+        "dimension": 63.78600823045267,
         "children": [
           {
             "id": "29fc0a84c71f55d8",
@@ -52,7 +35,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -62,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "tag:#q",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +98,7 @@
       {
         "id": "4fe594f4ffdb2f01",
         "type": "tabs",
-        "dimension": 47.80821917808219,
+        "dimension": 36.21399176954733,
         "children": [
           {
             "id": "8b2ac966228eb57c",
@@ -123,7 +106,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Basket/Взаимодействие уровней друг с другом.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Basket/Взаимодействие уровней друг с другом.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Basket/Взаимодействие уровней друг с другом.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,13 +180,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Basket/Взаимодействие уровней друг с другом.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,7 +198,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "29fc0a84c71f55d8",
+  "active": "7a8fe2bd3e56ea66",
   "lastOpenFiles": [
     "06 - Reference.tar.gz.gpg",
     "06 - Reference.tar.gz",
@@ -233,42 +210,42 @@
     "02 - Basket.tar.gz",
     "01 - Atomics.tar.gz.gpg",
     "01 - Atomics.tar.gz",
-    "encrypted/06 - Reference.tar.gz.gpg",
-    "02 - Basket/Зачем нужна служебная информация.md",
-    "02 - Basket/Хедер (заголовок).md",
-    "02 - Basket/Инкапсуляция данных.md",
-    "02 - Basket/Контейнер (фрейм).md",
-    "02 - Basket/Сетевая модель.md",
-    "02 - Basket/Протокол.md",
-    "02 - Basket/Модель TCP IP.md",
-    "02 - Basket/Сопоставление моделей OSI и TCP IP.md",
-    "02 - Basket/Модель OSI.md",
-    "03 - Assets/image/Сопоставление моделей OSI и TCP IP-1714502200614.jpeg",
-    "03 - Assets/image/Сопоставление моделей OSI и TCP IP-1714503470610.jpeg",
-    "02 - Basket/Взаимодействие уровней друг с другом.md",
-    "00 - System/@orphaned_files_output.md",
-    "00 - System/@files_without_tags.md",
-    "00 - System/@empty_files.md",
-    "00 - System/@broken_links_output.md",
-    "03 - Assets/image/Взаимодействие уровней друг с другом-1714502991022.jpeg",
-    "03 - Assets/image/Взаимодействие уровней друг с другом-1714502885573.jpeg",
-    "02 - Basket/Деинкапсуляция данных.md",
-    "03 - Assets/image/Деинкапсуляция данных-1714502816530.jpeg",
-    "03 - Assets/image/Инкапсуляция данных-1714502746969.jpeg",
-    "02 - Basket/Сетевой протокол.md",
-    "01 - Atomics/@Чеклист быстро навести порядок.md",
-    "@Чеклист быстро навести порядок.md",
-    "03 - Assets/image/Сопоставление моделей OSI и TCP IP-1714502116400.jpeg",
-    "03 - Assets/Pasted image 20240430212626.png",
-    "02 - Basket/Сетевой ротокол.md",
-    "02 - Basket/Сетевая.md",
-    "Чеклист быстро навести порядок.md",
-    "Untitled.canvas",
-    "02 - Basket/test.md",
-    "02 - Basket/2.md",
-    "02 - Basket/1.md",
-    "03 - Assets/Pasted image 20240429221654.png",
-    "02 - Basket/3.md",
-    "Pasted image 20240429221434.png"
+    "art.rom.one@gmail.com",
+    "01 - Atomics/git switch.md",
+    "01 - Atomics/Сбросить файл до последнего закомиченного состояния (git checkout).md",
+    "01 - Atomics/git reset.md",
+    "01 - Atomics/git cherry-pick.md",
+    "01 - Atomics/commit id.md",
+    "01 - Atomics/Состояние \"detached head\".md",
+    "01 - Atomics/TLS.md",
+    "01 - Atomics/rebase в TortoiseHg.md",
+    "01 - Atomics/git reflog.md",
+    "01 - Atomics/Как выделить слово, где бы ни находились.md",
+    "03 - Assets/image/git cherry-pick-1714994146120.jpeg",
+    "01 - Atomics/Как удалить все до символа.md",
+    "01 - Atomics/Как добавить пустую линию.md",
+    "01 - Atomics/Сделать, чтобы курсор оказался посередине экрана.md",
+    "01 - Atomics/Мультикурсор (многострочный курсор).md",
+    "01 - Atomics/Как увеличить число.md",
+    "01 - Atomics/Как сместить блок кода tab.md",
+    "01 - Atomics/Как скопировать кусок кода.md",
+    "01 - Atomics/Как переместиться в visual mode.md",
+    "01 - Atomics/Как выровнять блок кода.md",
+    "01 - Atomics/Как удалить кусок кода.md",
+    "01 - Atomics/Как выделить кусок кода.md",
+    "01 - Atomics/Ситуации, в которых следует делать commit.md",
+    "02 - Basket/Основы драматургии.md",
+    "01 - Atomics/Что содержит каждый коммит.md",
+    "01 - Atomics/Короткое имя у коммитов.md",
+    "03 - Assets/image/Fast forward merge-1714658939000.jpeg",
+    "03 - Assets/image/git push-1714658536268.jpeg",
+    "03 - Assets/image/git push-1714658445766.jpeg",
+    "03 - Assets/image/git push-1714658434760.jpeg",
+    "03 - Assets/image/remote в vcs-1714658233036.jpeg",
+    "03 - Assets/image/remote в vcs-1714658124263.jpeg",
+    "03 - Assets/image/Отмена изменений в index-1714657865826.jpeg",
+    "03 - Assets/image/Что содержит каждый коммит-1714657748330.jpeg",
+    "03 - Assets/image/staging area (индекс)-1714657404086.jpeg",
+    "Untitled.canvas"
   ]
 }
