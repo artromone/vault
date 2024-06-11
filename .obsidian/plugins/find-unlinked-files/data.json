@@ -3,10 +3,10 @@
   "disableWorkingLinks": false,
   "directoriesToIgnore": [],
   "filesToIgnore": [
-    "00 - System/@orphaned_files_output",
-    "00 - System/@broken_links_output",
-    "00 - System/@files_without_tags",
-    "00 - System/@empty_files"
+    "00 - System/@orphaned_files_output.md",
+    "00 - System/@files_without_tags.md",
+    "00 - System/@empty_files.md",
+    "00 - System/@broken_links_output.md"
   ],
   "fileTypesToIgnore": [],
   "linksToIgnore": [],
@@ -18,29 +18,31 @@
   "unresolvedLinksOutputFileName": "00 - System/@broken_links_output",
   "unresolvedLinksDirectoriesToIgnore": [],
   "unresolvedLinksFilesToIgnore": [
-    "00 - System/@orphaned_files_output",
-    "00 - System/@broken_links_output",
-    "00 - System/@files_without_tags",
-    "00 - System/@empty_files"
+    "00 - System/@orphaned_files_output.md",
+    "00 - System/@files_without_tags.md",
+    "00 - System/@empty_files.md",
+    "00 - System/@broken_links_output.md"
   ],
   "unresolvedLinksFileTypesToIgnore": [],
   "unresolvedLinksLinksToIgnore": [],
   "unresolvedLinksTagsToIgnore": [],
   "withoutTagsDirectoriesToIgnore": [
-    "00 - System/@orphaned_files_output/",
-    "00 - System/@broken_links_output/",
-    "00 - System/@files_without_tags/",
-    "00 - System/@empty_files/"
+    ""
   ],
-  "withoutTagsFilesToIgnore": [],
+  "withoutTagsFilesToIgnore": [
+    "00 - System/@orphaned_files_output.md",
+    "00 - System/@files_without_tags.md",
+    "00 - System/@empty_files.md",
+    "00 - System/@broken_links_output.md"
+  ],
   "withoutTagsOutputFileName": "00 - System/@files_without_tags",
   "emptyFilesOutputFileName": "00 - System/@empty_files",
   "emptyFilesDirectories": [],
   "emptyFilesFilesToIgnore": [
-    "00 - System/@orphaned_files_output",
-    "00 - System/@broken_links_output",
-    "00 - System/@files_without_tags",
-    "00 - System/@empty_files"
+    "00 - System/@orphaned_files_output.md",
+    "00 - System/@files_without_tags.md",
+    "00 - System/@empty_files.md",
+    "00 - System/@broken_links_output.md"
   ],
   "emptyFilesIgnoreDirectories": true,
   "openOutputFile": true

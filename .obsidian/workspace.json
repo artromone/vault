@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "85fe0beedb6cf7c0",
+        "id": "82eae838f4d3d76f",
         "type": "tabs",
         "children": [
           {
-            "id": "7a8fe2bd3e56ea66",
+            "id": "ae146ed18f636cb0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 - Atomics/Создать git ключ.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#q",
+                "query": "tag:#vcs/howto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +97,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4fe594f4ffdb2f01",
@@ -106,6 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01 - Atomics/Создать git ключ.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +134,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.77333743685104,
+                  "scale": 0.3037405133059627,
                   "close": true
                 }
               }
@@ -138,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "68a682f3ec7be0f1",
@@ -154,13 +160,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - Atomics/Создать git ключ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -170,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - Atomics/Создать git ключ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 - Atomics/Создать git ключ.md"
+              }
             }
           }
         ]
@@ -194,58 +204,58 @@
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "7a8fe2bd3e56ea66",
+  "active": "ae146ed18f636cb0",
   "lastOpenFiles": [
+    "02 - Basket/Аутентификация.md",
+    "02 - Basket/Коды состояний (коды ответов).md",
+    "02 - Basket/Структура HTTP запроса.md",
+    "02 - Basket/Контейнер.md",
+    "06 - Reference/Мои мысли и страхи после отработки почти год на первой работе.md",
+    "00 - System/@broken_links_output.md",
+    "00 - System/@files_without_tags.md",
+    "00 - System/@orphaned_files_output.md",
+    "00 - System/@empty_files.md",
+    "02 - Basket/Идемпотентный запрос.md",
+    "03 - Assets.tar.gz.gpg",
+    "03 - Assets.tar.gz",
+    "01 - Atomics.tar.gz",
+    "02 - Basket/Идентификация.md",
+    "02 - Basket/Авторизация.md",
+    "02 - Basket/Вход в систему (Идентификация, Аутентификация, Авторизация).md",
+    "02 - Basket/Базовая.md",
+    "02 - Basket/Протокол HTTP.md",
+    "02 - Basket/Сравнение HTTP1.1 и HTTP2.md",
+    "01 - Atomics/TLS.md",
+    "02 - Basket/Server Push.md",
+    "02 - Basket/Типы аутентификации.md",
+    "02 - Basket/Заголовок Set-Cookie.md",
+    "02 - Basket/HTTP cookie.md",
+    "02 - Basket/Основные заголовки ответа.md",
+    "02 - Basket/Server.md",
+    "02 - Basket/Content-Encoding.md",
+    "02 - Basket/Content-Language.md",
+    "02 - Basket/Content-Length.md",
+    "03 - Assets/image/Вход в систему-1715192816719.jpeg",
+    "03 - Assets/image/Структура HTTP ответа-1715191763044.jpeg",
+    "03 - Assets/image/URL-1715191676976.jpeg",
+    "03 - Assets/image/Структура HTTP запроса-1715191493672.jpeg",
+    "00 - System/notes",
     "06 - Reference.tar.gz.gpg",
     "06 - Reference.tar.gz",
     "04 - Canvas.tar.gz.gpg",
     "04 - Canvas.tar.gz",
-    "03 - Assets.tar.gz.gpg",
-    "03 - Assets.tar.gz",
     "02 - Basket.tar.gz.gpg",
     "02 - Basket.tar.gz",
-    "01 - Atomics.tar.gz.gpg",
-    "01 - Atomics.tar.gz",
-    "art.rom.one@gmail.com",
-    "01 - Atomics/git switch.md",
-    "01 - Atomics/Сбросить файл до последнего закомиченного состояния (git checkout).md",
-    "01 - Atomics/git reset.md",
-    "01 - Atomics/git cherry-pick.md",
-    "01 - Atomics/commit id.md",
-    "01 - Atomics/Состояние \"detached head\".md",
-    "01 - Atomics/TLS.md",
-    "01 - Atomics/rebase в TortoiseHg.md",
-    "01 - Atomics/git reflog.md",
-    "01 - Atomics/Как выделить слово, где бы ни находились.md",
     "03 - Assets/image/git cherry-pick-1714994146120.jpeg",
-    "01 - Atomics/Как удалить все до символа.md",
-    "01 - Atomics/Как добавить пустую линию.md",
-    "01 - Atomics/Сделать, чтобы курсор оказался посередине экрана.md",
-    "01 - Atomics/Мультикурсор (многострочный курсор).md",
-    "01 - Atomics/Как увеличить число.md",
-    "01 - Atomics/Как сместить блок кода tab.md",
-    "01 - Atomics/Как скопировать кусок кода.md",
-    "01 - Atomics/Как переместиться в visual mode.md",
-    "01 - Atomics/Как выровнять блок кода.md",
-    "01 - Atomics/Как удалить кусок кода.md",
-    "01 - Atomics/Как выделить кусок кода.md",
-    "01 - Atomics/Ситуации, в которых следует делать commit.md",
-    "02 - Basket/Основы драматургии.md",
-    "01 - Atomics/Что содержит каждый коммит.md",
-    "01 - Atomics/Короткое имя у коммитов.md",
     "03 - Assets/image/Fast forward merge-1714658939000.jpeg",
     "03 - Assets/image/git push-1714658536268.jpeg",
     "03 - Assets/image/git push-1714658445766.jpeg",
     "03 - Assets/image/git push-1714658434760.jpeg",
     "03 - Assets/image/remote в vcs-1714658233036.jpeg",
-    "03 - Assets/image/remote в vcs-1714658124263.jpeg",
-    "03 - Assets/image/Отмена изменений в index-1714657865826.jpeg",
-    "03 - Assets/image/Что содержит каждый коммит-1714657748330.jpeg",
-    "03 - Assets/image/staging area (индекс)-1714657404086.jpeg",
     "Untitled.canvas"
   ]
 }
