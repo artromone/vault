@@ -2,5 +2,8 @@
   "accentColor": "#7396fa",
   "cssTheme": "Red Graphite",
   "enabledCssSnippets": [],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Arial",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }
