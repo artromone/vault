@@ -4,83 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a82d56a514ab5fb6",
+        "id": "65381408a88fb4ab",
         "type": "tabs",
         "children": [
           {
-            "id": "f425be7ba493158a",
+            "id": "b822031cf2223748",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Atomics/Структуры.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c6f3cf43fa8a6b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Basket/Более правильная инициализация структур.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80f57a8b6b82416e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Basket/Анонимные поля в Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be2eeebd0b58ee96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Basket/Маршалинг (marshaling).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3fa8c6580a13570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Basket/Функция с возможным аварийным завершением.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50e8d18bcd070306",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Atomics/Как сделать venv в linux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "venv",
+                "query": "tag:#java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,8 +93,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4fe594f4ffdb2f01",
@@ -172,7 +106,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Atomics/Как сделать venv в linux.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 290.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "68a682f3ec7be0f1",
@@ -221,9 +155,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Atomics/Как сделать venv в linux.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -238,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Atomics/Как сделать venv в linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,16 +181,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 - Atomics/Как сделать venv в linux.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,54 +199,54 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "50e8d18bcd070306",
+  "active": "b822031cf2223748",
   "lastOpenFiles": [
-    "02 - Basket/Почему сообещния об ошибках надо писать с маленькой буквы.md",
-    "02 - Basket/Функция с возможным аварийным завершением.md",
-    "02 - Basket/Маршалинг (marshaling).md",
-    "02 - Basket/Анонимные поля в Golang.md",
-    "02 - Basket/Более правильная инициализация структур.md",
-    "01 - Atomics/Структуры.md",
-    "01 - Atomics/Qutebrowser.md",
-    "01 - Atomics/Создание автопереключения аудио в sway fedora.md",
-    "01 - Atomics/Составные типы в Golang.md",
-    "01 - Atomics/Псевдоним в Golang.md",
-    "01 - Atomics/Создание отображения.md",
-    "01 - Atomics/Удаление отображения.md",
-    "01 - Atomics/Безопасность операций с отображениями.md",
-    "01 - Atomics/Отличить несуществующий элемент от нулевого.md",
-    "01 - Atomics/Операции с отображениями.md",
-    "01 - Atomics/Отображения.md",
-    "01 - Atomics/Реализация set посредством map.md",
-    "01 - Atomics/Итерация по отображению.md",
-    "01 - Atomics/Пустая структура.md",
-    "01 - Atomics/Структура среза.md",
-    "01 - Atomics/Проверка на пустой срез.md",
-    "01 - Atomics/Добавление элементов в срез.md",
-    "01 - Atomics/Создание среза.md",
-    "01 - Atomics/Инициализация массивов в Golang.md",
-    "01 - Atomics/Сравнение массивов в Golang.md",
-    "01 - Atomics/Срезы в Golang.md",
+    "01 - Atomics/Декларация типа (type assertion).md",
+    "02 - Basket/Ad-hoc-полиморфизм.md",
+    "02 - Basket/Полиморфизм в Golang.md",
+    "02 - Basket/Полиморфизм подтипов.md",
+    "01 - Atomics/Интерфейсы в Golang.md",
+    "02 - Basket/Проблемы интерфейсов в Golang.md",
+    "01 - Atomics/Соответствие интерфейсу.md",
+    "01 - Atomics/Пустой интерфейс.md",
+    "02 - Basket/Инкапсуляция.md",
+    "01 - Atomics/Инкапсуляция данных.md",
+    "02 - Basket/Инкапсуляция в Golang.md",
+    "00 - System/@files_without_tags.md",
+    "06 - Reference.tar.gz",
+    "04 - Canvas.tar.gz",
+    "03 - Assets.tar.gz",
+    "02 - Basket.tar.gz",
+    "01 - Atomics.tar.gz",
+    "00 - System.tar.gz",
+    "00 - System/@orphaned_files_output.md",
+    "00 - System/@broken_links_output.md",
+    "00 - System/@empty_files.md",
+    "01 - Atomics/JRE (Java Runtime Environment).md",
+    "01 - Atomics/Key is stored in legacy trusted.gpg keyring, see the DEPRECATION section in apt-key for detail.md",
+    "06 - Reference/База данных с HR.md",
+    "01 - Atomics/Важность уступки для переговоров.md",
+    "01 - Atomics/Влюбленность живет 2 года.md",
+    "01 - Atomics/Влюбленность - не настоящая любовь.md",
+    "01 - Atomics/Большинство людей заключает браки не по любви.md",
+    "01 - Atomics/Диапазоны итераторов.md",
+    "01 - Atomics/Random-access iterators.md",
+    "01 - Atomics/Output iterators.md",
+    "01 - Atomics/Input iterators.md",
+    "03 - Assets/image/Буферизованный () канал-1721217151798.jpeg",
+    "03 - Assets/image/Конвейер в Golang-1721209159920.jpeg",
+    "03 - Assets/image/Интерфейс с нулевым указателем не является нулевым-1721125194258.jpeg",
+    "03 - Assets/image/Динамическое значение интерфейса (динамический тип)-1721124487630.jpeg",
+    "03 - Assets/image/Динамическое значение интерфейса (динамический тип)-1721124042599.jpeg",
+    "03 - Assets/image/Динамическое значение интерфейса (динамический тип)-1721123972151.jpeg",
     "03 - Assets/image/Qutebrowser-1720541710043.jpeg",
     "Archive.tar.gz",
     "03 - Assets/image/Список фильмов для просмотра-1718654148939.jpeg",
     "06 - Reference/Цели",
     "03 - Assets/image/Вход в систему-1715192816719.jpeg",
     "03 - Assets.tar.gz.gpg",
-    "03 - Assets.tar.gz",
-    "01 - Atomics.tar.gz",
     "03 - Assets/image/Структура HTTP ответа-1715191763044.jpeg",
-    "03 - Assets/image/URL-1715191676976.jpeg",
-    "03 - Assets/image/Структура HTTP запроса-1715191493672.jpeg",
     "00 - System/notes",
-    "06 - Reference.tar.gz.gpg",
-    "06 - Reference.tar.gz",
-    "04 - Canvas.tar.gz.gpg",
-    "04 - Canvas.tar.gz",
-    "03 - Assets/image/git cherry-pick-1714994146120.jpeg",
-    "03 - Assets/image/Fast forward merge-1714658939000.jpeg",
-    "03 - Assets/image/git push-1714658536268.jpeg",
-    "03 - Assets/image/git push-1714658445766.jpeg",
     "Untitled.canvas"
   ]
 }
