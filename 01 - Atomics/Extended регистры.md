@@ -1,4 +1,4 @@
-#computer_architecture #computer_architecture/assembly 
+#prog #prog/computer_architecture#prog #prog/computer_architecture/assembly 
 
 Например, `eax` представляет собой `ax` плюс дополнительные 16 бит→ **32 бита**
 

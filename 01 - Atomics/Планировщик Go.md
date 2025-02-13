@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/golang #interview 
+#prog #prog/golang  
 
 Управляет выполнением горутин, эффективно распределяет ресурсы, параллельные задачи
 

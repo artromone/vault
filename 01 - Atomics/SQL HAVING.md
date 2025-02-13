@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql 
+#prog #prog/db/sql 
 
 > Был добавлен в SQL, т.к. [[SQL WHERE]] не может работать с [[SQL Aggregate]]
 

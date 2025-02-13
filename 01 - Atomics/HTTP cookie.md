@@ -1,4 +1,4 @@
-#network #network/cookie
+#prog #prog/network  #prog #prog/network /cookie
 
 > Небольшой фрагмент данных, который сервер отправляет браузеру пользователя в ответе
 

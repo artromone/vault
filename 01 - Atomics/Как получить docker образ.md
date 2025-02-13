@@ -1,4 +1,4 @@
-#prog_lang/docker
+#prog/docker
 
 - docker pull – скачать из репозитория
 - На основе готового образа создать свой через dockerfile

@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/golang #prog_lang/golang/concurrency
+#prog #prog/golang #prog/concurrency
 
 > Гонка данных осуществля­ется, когда две go-подпрограммы одновременно обращаются к одной и той же пере­менной и по крайней мере одно из обращений представляет собой запись
 

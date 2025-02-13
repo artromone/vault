@@ -1,6 +1,6 @@
-#prog_lang #prog_lang/golang
+#prog #prog/golang
 
 - [[Массивы в Golang]]
 - [[Срезы в Golang]]
-- [[Отображения]]
+- [[map]]
 - [[Структуры]]

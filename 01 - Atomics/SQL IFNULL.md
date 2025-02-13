@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql 
+#prog #prog/db/sql 
 
 > Вернуть значение, если оно не `NULL`, иначе вернуть альтернативное
 

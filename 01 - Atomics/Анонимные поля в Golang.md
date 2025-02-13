@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/golang #prog_lang/golang/struct 
+#prog #prog/golang #prog/golang/struct 
 
 > Поле с типом, но без имени
 

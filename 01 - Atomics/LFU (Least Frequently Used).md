@@ -1,4 +1,4 @@
-#computer_architecture 
+#prog #prog/computer_architecture
 
 > Замена наименее часто используемой строки
 

@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/golang #interview 
+#prog/golang  
 
 Безопасный и эффективный доступ к карте из нескольких горутин
 

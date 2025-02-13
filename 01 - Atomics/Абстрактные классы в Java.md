@@ -1,8 +1,4 @@
-#prog_lang #prog_lang/java 
-
-
-[[abstract в Java]]
-
+#prog #prog/java 
 
 > Нельзя создать объект или экземпляр стандартного класса
 

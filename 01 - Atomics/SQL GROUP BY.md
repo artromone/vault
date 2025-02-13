@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql 
+#prog/db/sql 
 
 > Группирует rows одинакового типа в итоговые rows. Часто используется вместе с [[SQL Aggregate]]
 

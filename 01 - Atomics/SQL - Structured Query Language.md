@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql
+#prog #prog/db/sql
 
 Все версии SQL поддерживают главные операции (`SELECT`, `UPDATE`, `DELETE`, `INSERT`, `WHERE`)
 Но существуют диалекты языка со своими особенностями и расширениями

@@ -1,4 +1,4 @@
-#network/header 
+#prog #prog/network /header 
 
 > Програмное обеспечение сервера, отправившего ответ
 

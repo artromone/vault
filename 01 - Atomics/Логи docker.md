@@ -1,4 +1,4 @@
-#prog_lang/docker 
+#prog/docker 
 
 Можно писать в файл
 

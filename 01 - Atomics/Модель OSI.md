@@ -1,4 +1,4 @@
-#network #network/model  
+#prog #prog/network  #prog #prog/network /model  
 
 > **Open Systems Interconnection** model – модель взаимодействия открытых систем
 

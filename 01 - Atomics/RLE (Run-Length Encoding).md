@@ -1,4 +1,4 @@
-#computer_architecture
+#prog #prog/computer_architecture
 
 (*Кодирование длины серий*)
 

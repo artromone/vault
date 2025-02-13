@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/golang #prog_lang/golang/slice
+#prog #prog/golang #prog/golang/slice
 
 > Последовательность переменной длины с одним и тем же типом
 

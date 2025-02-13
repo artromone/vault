@@ -1,4 +1,4 @@
-#network #network/model
+#prog #prog/network  #prog #prog/network /model
 
 > Описывает, как нужно строить сети на основе разных технологий, чтобы в них работал стек протоколов TCP/[[IP (Internet Protocol)]]
 

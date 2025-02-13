@@ -1,4 +1,4 @@
-#prog_lang 
+#prog 
 
 > Uniform Resourse Identifier – унифицированный идентификатор ресурса
 

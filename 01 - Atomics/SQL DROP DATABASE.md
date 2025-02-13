@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql #prog_lang/sql/db
+#prog #prog/db/sql #prog/db/sql
 
 > Удалить базу данных
 
@@ -6,4 +6,4 @@
 DROP DATABASE databasename;
 ```
 
-`SHOW DATABASES;` – ? #q 
+`SHOW DATABASES;` – ? #/q 

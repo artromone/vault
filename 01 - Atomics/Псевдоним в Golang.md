@@ -1,3 +1,3 @@
-#prog_lang #prog_lang/golang 
+#prog #prog/golang 
 
 > Способ идентификации одной и той же переменной

@@ -1,4 +1,4 @@
-#network #network/protocol #cryptography 
+#prog #prog/network  #prog #prog/network /protocol #prog #prog/encryption
 
 Чтобы установить криптографически безопасный канал данных, узлы соединения должны согласовать используемые методы шифрования и ключи
 

@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/cpp
+#prog #prog/cpp
 
 (auto – до С++11, сейчас другой смысл)
 

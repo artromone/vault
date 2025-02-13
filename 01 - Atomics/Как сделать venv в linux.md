@@ -1,4 +1,4 @@
-#prog_lang/python #prog_lang 
+#prog/python #prog 
 
 ```bash
 python3 -m venv venv

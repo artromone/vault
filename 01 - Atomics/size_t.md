@@ -1,3 +1,3 @@
-#prog_lang #prog_lang/cpp 
+#prog #prog/cpp 
 
 > Максимальный размер адреса системы

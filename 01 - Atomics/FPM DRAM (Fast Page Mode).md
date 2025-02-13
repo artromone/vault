@@ -1,4 +1,4 @@
-#computer_architecture 
+#prog #prog/computer_architecture
 
 - Быстрый постраничный режим
 - Быстрее доступ к ячейкам в одной строке

@@ -1,3 +1,3 @@
-#prog_lang #prog_lang/golang #interview 
+#prog #prog/golang  
 
 Интерфейс с нулевым указателем не является нулевым

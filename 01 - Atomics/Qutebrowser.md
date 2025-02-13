@@ -1,4 +1,4 @@
-#configuration 
+#prog/linux #prog
 
 ![[Qutebrowser-1720541710043.jpeg]]
 

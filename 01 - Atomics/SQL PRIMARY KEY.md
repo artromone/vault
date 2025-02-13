@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql #prog_lang/sql/db
+#prog #prog/db/sql #prog/db/sql
 
 > Должен содержать уникальные значения и не быть `NULL`
 > В таблице он должен быть один. Может состоять из одного или нескольих column
@@ -20,7 +20,7 @@ CREATE TABLE Persons (
     CONSTRAINT PK_Person PRIMARY KEY (ID,LastName)  
 );
 ```
-#q 
+#/q 
 
 ```sql
 ALTER TABLE Persons  

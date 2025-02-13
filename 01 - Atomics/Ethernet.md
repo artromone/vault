@@ -1,4 +1,4 @@
-#network #network/protocol  
+#prog #prog/network  #prog #prog/network /protocol  
 
 > Этот протокол – стандарт для передачи данных в локальных сетях (LAN)
 

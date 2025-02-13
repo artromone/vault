@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/cpp #prog_lang/cpp/iterators
+#prog #prog/cpp #prog/cpp/iterators
 
 Итераторы непрерывного доступа, указывают на смежные элементы в памяти
 

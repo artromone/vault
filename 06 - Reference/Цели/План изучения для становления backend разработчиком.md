@@ -1,3 +1,5 @@
+#checklist 
+
 Kafka, Cassandra / Scylla, ClickHouse, NSQ / RabbitMQ;
 - Kubernetes, Kibana, Elastic, Grafana, Prometheus;
 - Unit tests;

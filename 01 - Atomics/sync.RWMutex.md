@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/golang #prog_lang/golang/concurrency 
+#prog #prog/golang #prog/concurrency 
 
 >  Несколько читателей, один писатель
 

@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql #prog_lang/sql/db
+#prog #prog/db/sql #prog/db
 
 > Запрещает разрыв связи между таблицами
 > `FOREIGN` – поле в одной таблице, которое относится к [[SQL PRIMARY KEY]] в другой таблице

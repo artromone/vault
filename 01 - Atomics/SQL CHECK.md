@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql #prog_lang/sql/db
+#prog/db/sql #prog/db/sql
 
 > Устанавливает условие, и только такие значения смогут быть добавлены/изменены
 

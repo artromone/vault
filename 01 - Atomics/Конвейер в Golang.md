@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/golang #prog_lang/golang/goroutines 
+#prog #prog/golang #prog/golang/goroutines 
 
 > Использование каналов, в котором go программы подключаются так, чтобы выход одной являлся входом для другой
 

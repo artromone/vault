@@ -1,4 +1,4 @@
-#prog_lang/sql #prog_lang 
+#prog/db/sql #prog 
 
 - SELECT *
 - Фильтрация where

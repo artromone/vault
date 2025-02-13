@@ -1,4 +1,4 @@
-#network
+#prog #prog/network 
 
 > **DNS (Domain Name System)** нужна для преобразования символьных имен в IP-адреса
 

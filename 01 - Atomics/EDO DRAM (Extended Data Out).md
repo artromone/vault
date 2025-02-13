@@ -1,4 +1,4 @@
-#computer_architecture 
+#prog #prog/computer_architecture
 
 - Расширенное время удержания данных на выходе
 - Данные остаются во внутреннем регистре после сигнала `CAS`

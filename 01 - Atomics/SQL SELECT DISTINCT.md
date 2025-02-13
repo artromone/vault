@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql 
+#prog #prog/db/sql 
 
 > Возвращает только отличающиеся значения
 

@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql #prog_lang/sql/db
+#prog #prog/db/sql #prog/db/sql
 
 > Позволяет уникальному числу генерироваться автоматически когда добавляется новый row
 > Часто это [[SQL PRIMARY KEY]], который мы хотим автоматически создавать

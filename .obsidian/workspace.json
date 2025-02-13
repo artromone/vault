@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "be103a4960f6e437",
+        "id": "f5af18773ee9ecd2",
         "type": "tabs",
         "children": [
           {
-            "id": "90858be4c4f23d1c",
+            "id": "11deb37e43decc11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Basket/Data race и race conditions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Data race и race conditions"
-            }
-          },
-          {
-            "id": "f9851f672ca5d865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Atomics/В-деревья.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "В-деревья"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#prog_lang/data_structure",
+                "query": "tag:#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,18 +174,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcaaa9b26a97d71d",
+  "active": "11deb37e43decc11",
   "lastOpenFiles": [
-    "01 - Atomics/Ad-hoc-полиморфизм.md",
-    "01 - Atomics/Создание автопереключения аудио в sway fedora.md",
-    "01 - Atomics/Qutebrowser.md",
-    "01 - Atomics/Key is stored in legacy trusted.gpg keyring, see the DEPRECATION section in apt-key for detail.md",
-    "01 - Atomics/SQL ALL.md",
-    "01 - Atomics/CISC.md",
-    "01 - Atomics/Аксиомы работы с каналами.md",
-    "01 - Atomics/Deadlock.md",
-    "Профилирование в Go.md",
-    "02 - Basket/Data race и race conditions.md",
-    "Welcome.md"
+    "01 - Atomics/Виды памяти.md",
+    "01 - Atomics/Временная сложность наихудшего случая.md",
+    "00 - System/@broken_links_output.md",
+    "01 - Atomics/Главное – разнообразие.md",
+    "01 - Atomics/Витамин D.md",
+    "01 - Atomics/Витамин C.md",
+    "01 - Atomics/Внешний (extern).md",
+    "01 - Atomics/Дескриптор.md",
+    "01 - Atomics/Директива .model ассемблер.md",
+    "01 - Atomics/Виды поведения.md",
+    "01 - Atomics/Дела развития.md",
+    "01 - Atomics/Для чего нужны указатели.md",
+    "01 - Atomics/Главное, что надо знать про витамины.md",
+    "01 - Atomics/Векторная.md",
+    "01 - Atomics/Динамическая оперативная память.md",
+    "01 - Atomics/Глобальные и статические данные.md",
+    "01 - Atomics/Декларатор.md",
+    "01 - Atomics/Виртуальный деструктор.md",
+    "01 - Atomics/Протокол HTTP.md",
+    "02 - Basket/Типы аутентификации.md",
+    "01 - Atomics/Аутентификация.md",
+    "01 - Atomics/Внутренние классы в Java.md",
+    "01 - Atomics/Влюбленность живет 2 года.md",
+    "01 - Atomics/Важность уступки для переговоров.md",
+    "01 - Atomics/Дерево (структура данных).md",
+    "01 - Atomics/Виртуальная память.md"
   ]
 }

@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql #prog_lang/sql/db
+#prog #prog/db/sql
 
 > Задание определенных правил для данных в таблице
 

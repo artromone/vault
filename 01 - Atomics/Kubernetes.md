@@ -1,3 +1,3 @@
-#prog_lang/docker 
+#prog/docker 
 
 Pod – минимальная единица развертывания

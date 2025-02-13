@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql 
+#prog/db/sql 
 
 > Возвращает rows, у которых значения есть с обоих сторон
 

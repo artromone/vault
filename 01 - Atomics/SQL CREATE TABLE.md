@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql #prog_lang/sql/db
+#prog/db/sql #prog/db/sql
 
 > Создать новую таблицу в БД
 

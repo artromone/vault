@@ -1,6 +1,6 @@
-#prog_lang 
+#prog 
 
-> URL – Universal Resourse Locator
+URL – Universal Resourse Locator
 
 ![[URL-1715191676976.jpeg]]
 

@@ -1,4 +1,4 @@
-#prog_lang/docker 
+#prog/docker 
 
 - Не монтировать `/`
 - `docker run -v host_path:container_path:ro image` (read only)

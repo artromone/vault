@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/golang #prog_lang/golang/interface 
+#prog #prog/golang #prog/golang/interface 
 
 > Выражают обобщения или абстракции поведения других типов
 > Интерфейс содержит только контракт (между потребителем и реализацией)

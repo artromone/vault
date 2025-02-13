@@ -1,4 +1,4 @@
-#prog_lang/golang  
+#prog/golang  
 
 Если написать
 ```go

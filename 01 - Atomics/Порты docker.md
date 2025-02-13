@@ -1,4 +1,4 @@
-#prog_lang/docker 
+#prog/docker 
 
 PORTS при `docker ps` укажет, какой порт надо прокинуть
 

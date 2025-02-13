@@ -1,4 +1,4 @@
-#prog_lang/docker 
+#prog/docker 
 
 Через опцию `-e A=a` задаются
 

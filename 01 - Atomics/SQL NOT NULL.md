@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql #prog_lang/sql/db
+#prog/db/sql #prog/db/sql
 
 > Нельзя добавить или сменить row, не установив значение в эту column
 

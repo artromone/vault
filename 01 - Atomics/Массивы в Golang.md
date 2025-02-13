@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/golang #prog_lang/golang/array 
+#prog #prog/golang #prog/golang/array 
 
 Гомогенны – значения всех элементов имеют одинаковый тип
 

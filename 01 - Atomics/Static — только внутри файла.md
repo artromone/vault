@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/cpp 
+#prog/cpp 
 
 **Статические функции пришли в С++ из С**
 

@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql #prog_lang/sql/db
+#prog #prog/db/sql #prog/db/sql
 
 > Если значение не указано, будет выбрано дефолтное это
 

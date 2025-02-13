@@ -1,4 +1,4 @@
-#prog_lang/cpp #prog_lang 
+#prog/cpp #prog 
 
 assert — макрос стандартной библиотеки
 

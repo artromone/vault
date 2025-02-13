@@ -1,4 +1,4 @@
-#network #network/header 
+#prog #prog/network  #prog #prog/network /header 
 
 > Имя [домена](Домен) или [[IP-адрес]], к которому выполняется запрос (обязательный заголовок)
 

@@ -1,4 +1,4 @@
-#computer_architecture 
+#prog #prog/computer_architecture
 
 - Данные по обоим фронтам синхроимпульса
 - Удвоенная скорость передачи данных

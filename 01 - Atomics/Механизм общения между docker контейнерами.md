@@ -1,4 +1,4 @@
-#prog_lang/docker 
+#prog/docker 
 
 Можно было бы просто взять и через bind mount/volumes писать в файл и считывать данные из файла
 

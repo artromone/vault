@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/golang #prog_lang/golang/map 
+#prog/golang #prog/golang/map 
 
 ```go
 set := make(map[string]bool) // Множество строк

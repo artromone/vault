@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql 
+#prog #prog/db/sql 
 
 > Возвращают наибольшее и наименьшее значение для выбранной column
 
@@ -18,7 +18,7 @@ SELECT MIN(Price) AS SmallestPrice
 FROM Products;
 ```
 
-Использование совместно с Group By #q
+Использование совместно с Group By #/q
 ```sql
 SELECT MIN(Price) AS SmallestPrice, CategoryID  
 FROM Products  

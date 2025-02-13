@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/cpp 
+#prog #prog/cpp 
 
 Тип выводится из **типа инициализатора**.
 

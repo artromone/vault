@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql 
+#prog/db/sql 
 
 > Посчитать сумму числовой column 
 
@@ -18,7 +18,7 @@ SELECT SUM(Quantity) AS total
 FROM OrderDetails;
 ```
 
-C групбай #q 
+C групбай #/q 
 
 ```sql
 SELECT OrderID, SUM(Quantity) AS [Total Quantity]  

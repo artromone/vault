@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/golang #interview 
+#prog #prog/golang 
 
 Механизм синхронизации, только одна горутина может получать доступ к КС кода
 

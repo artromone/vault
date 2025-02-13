@@ -1,5 +1,5 @@
-#prog_lang #prog_lang/cpp #prog_lang/cpp/iterators
+#prog #prog/cpp #prog/cpp/iterators
 
 - Двунаправленные итераторы
-- Помимо возможностей [[Forward iterators]], поддерживают операцию `--it`
+- Помимо возможностей Forward iterators, поддерживают операцию `--it`
 

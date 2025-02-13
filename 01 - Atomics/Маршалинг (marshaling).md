@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/golang
+#prog #prog/golang
 
 > Преобразование структуры данных Go в JSON 
 

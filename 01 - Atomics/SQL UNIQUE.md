@@ -1,4 +1,4 @@
-#prog_lang #prog_lang/sql #prog_lang/sql/db
+#prog #prog/db/sql #prog/db/sql
 
 > Все значения в column должны быть разными. [[SQL PRIMARY KEY]] обладает этим свойством по умолчанию.
 > Может быть только один [[SQL PRIMARY KEY]] но сколько угодно `UNIQUE`
