@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"7fa8bc4fe54bf8c3","type":"text","text":"Новая (Т, П, Р)","x":-580,"y":-440,"width":250,"height":60,"color":"3"},
+		{"id":"99bbd7d687ad46f7","type":"text","text":"Архив (Backlog) (Р)","x":-580,"y":-610,"width":250,"height":60,"color":"1"},
+		{"id":"fb644ca7773bd061","type":"text","text":"В работе (П)","x":420,"y":-180,"width":250,"height":60,"color":"5"},
+		{"id":"233e3069166968d7","type":"text","text":"Реализована (П)","x":420,"y":80,"width":250,"height":60,"color":"2"},
+		{"id":"95ea90f5ecb2fade","type":"text","text":"Назначена (П, Р)","x":420,"y":-440,"width":250,"height":60,"color":"2"},
+		{"id":"3dcd8c56ee002357","type":"text","text":"Арбитраж (П)","x":420,"y":-610,"width":250,"height":60,"color":"1"},
+		{"id":"176d45dd1f39735a","type":"text","text":"Отклонена","x":840,"y":400,"width":250,"height":60,"color":"4"},
+		{"id":"1e5b9359c024a329","type":"text","text":"Доработка (Т)","x":-100,"y":-180,"width":250,"height":60,"color":"2"},
+		{"id":"5f09340876a12520","type":"text","text":"Тестирование (Т)","x":-100,"y":80,"width":250,"height":60,"color":"5"},
+		{"id":"d5f6483292215a83","type":"text","text":"Завершена (Т, П)","x":150,"y":400,"width":250,"height":60,"color":"4"},
+		{"id":"88b4b8ef3d2c6f1e","type":"text","text":"Проверено (Т)","x":-680,"y":80,"width":250,"height":60,"color":"2"},
+		{"id":"a7beb5a06355be73","type":"text","text":"Регресс (П)","x":-680,"y":240,"width":250,"height":60,"color":"5"},
+		{"id":"911ab67b1d9268c3","type":"text","text":"Документирование (Т)","x":-100,"y":240,"width":250,"height":60,"color":"2"},
+		{"id":"54f273c94ba2d54e","type":"text","text":"Готово (Д)","x":420,"y":240,"width":250,"height":60,"color":"2"},
+		{"id":"73c810c25875cc95","type":"text","text":"Группы пользователей:\nТ - тестеры\nП - программисты\nД - техписы\nР - руководство","x":-680,"y":-234,"width":250,"height":234}
+	],
+	"edges":[
+		{"id":"64820c4afc1ae03e","fromNode":"7fa8bc4fe54bf8c3","fromSide":"right","toNode":"95ea90f5ecb2fade","toSide":"left","label":"Программист взял в работу или на него была назначена ведущим"},
+		{"id":"e87ca14e7c7389c3","fromNode":"95ea90f5ecb2fade","fromSide":"bottom","toNode":"fb644ca7773bd061","toSide":"top","label":"создание ветки под исправление (AZ-###) или нового функционала (AZ-###)"},
+		{"id":"a5bf3cb7f92faf93","fromNode":"fb644ca7773bd061","fromSide":"bottom","toNode":"233e3069166968d7","toSide":"top","label":"Исправлена или реализована"},
+		{"id":"d28ff247dd59182d","fromNode":"233e3069166968d7","fromSide":"left","toNode":"5f09340876a12520","toSide":"right","label":"Тестер берет\nна проверку"},
+		{"id":"bbdd10bb4f9b5f1c","fromNode":"5f09340876a12520","fromSide":"top","toNode":"1e5b9359c024a329","toSide":"bottom","label":"Обнаружены недочеты или исправлена не полностью"},
+		{"id":"b283723e92259a00","fromNode":"1e5b9359c024a329","fromSide":"right","toNode":"fb644ca7773bd061","toSide":"left"},
+		{"id":"758f1611802d9595","fromNode":"5f09340876a12520","fromSide":"left","toNode":"88b4b8ef3d2c6f1e","toSide":"right","label":"Ошибка исправлена\n/фича реализована"},
+		{"id":"9b800473be950408","fromNode":"88b4b8ef3d2c6f1e","fromSide":"left","toNode":"a7beb5a06355be73","toSide":"left","label":"Вливание изменений \nв рабочую ветку"},
+		{"id":"f901143e60f7ae86","fromNode":"a7beb5a06355be73","fromSide":"right","toNode":"911ab67b1d9268c3","toSide":"left","label":"Проверено \n+ документацию"},
+		{"id":"fc0c784b26114384","fromNode":"911ab67b1d9268c3","fromSide":"right","toNode":"54f273c94ba2d54e","toSide":"left","label":"Документация готова"},
+		{"id":"1b768ca0f883d7b7","fromNode":"3dcd8c56ee002357","fromSide":"bottom","toNode":"95ea90f5ecb2fade","toSide":"top","label":"Задача учтонена"},
+		{"id":"9448bdcb32a06325","fromNode":"95ea90f5ecb2fade","fromSide":"right","toNode":"3dcd8c56ee002357","toSide":"right","label":"Не понятно"},
+		{"id":"195cbb1b1fbef32b","fromNode":"3dcd8c56ee002357","fromSide":"bottom","toNode":"176d45dd1f39735a","toSide":"top","label":"Принято решение задачу не делать"},
+		{"id":"2b07c1aa9f32f6c7","fromNode":"7fa8bc4fe54bf8c3","fromSide":"top","toNode":"99bbd7d687ad46f7","toSide":"bottom","label":"отложить в долгий ящик"},
+		{"id":"fec871cb971123f6","fromNode":"3dcd8c56ee002357","fromSide":"left","toNode":"99bbd7d687ad46f7","toSide":"right","label":"Отложить в долгий ящик, а может и не делать вовсе"},
+		{"id":"72d48fcab2dd3614","fromNode":"a7beb5a06355be73","fromSide":"bottom","toNode":"d5f6483292215a83","toSide":"left","label":"Тестер проверил"},
+		{"id":"b14e61387ba1695c","fromNode":"54f273c94ba2d54e","fromSide":"bottom","toNode":"d5f6483292215a83","toSide":"right"}
+	]
+}

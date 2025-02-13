@@ -1,77 +1,170 @@
 {
   "main": {
-    "id": "08fd304cc0cbcee5",
+    "id": "231f878e2f5473e0",
     "type": "split",
     "children": [
       {
-        "id": "65381408a88fb4ab",
+        "id": "be103a4960f6e437",
         "type": "tabs",
         "children": [
           {
-            "id": "b822031cf2223748",
+            "id": "90858be4c4f23d1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Basket/Data race и race conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data race и race conditions"
+            }
+          },
+          {
+            "id": "f9851f672ca5d865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Atomics/В-деревья.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "В-деревья"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e68b313b191a1737",
+    "id": "c2f8bb681d6f0d11",
     "type": "split",
     "children": [
       {
-        "id": "5043f7a24d77c730",
+        "id": "488bf8d188567bb0",
         "type": "tabs",
-        "dimension": 63.78600823045267,
         "children": [
           {
-            "id": "29fc0a84c71f55d8",
+            "id": "dcaaa9b26a97d71d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "118d69e25a436c7a",
+            "id": "26b1accba6e82bda",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#java",
+                "query": "tag:#prog_lang/data_structure",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "9367c6bbbb6095e9",
+            "id": "6203a5dc26a824b8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "081844f27ca817fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf717b5219366cbb",
+        "type": "tabs",
+        "children": [
           {
-            "id": "189b0303c6b4888f",
+            "id": "0964f7de1b6d0175",
             "type": "leaf",
             "state": {
-              "type": "trash-explorer",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "file": "01 - Atomics/В-деревья.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for В-деревья"
             }
           },
           {
-            "id": "c3e850377ffeadb1",
+            "id": "9d42e3dcac51e477",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "6007ba5ebfc7cc6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d909a90ea044e91a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "9734e87209c1e48e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -79,174 +172,39 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "bd3a08e293aee130",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
-        ]
-      },
-      {
-        "id": "4fe594f4ffdb2f01",
-        "type": "tabs",
-        "dimension": 36.21399176954733,
-        "children": [
-          {
-            "id": "8b2ac966228eb57c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.42492968260862574,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 290.5110321044922,
-    "collapsed": true
-  },
-  "right": {
-    "id": "68a682f3ec7be0f1",
-    "type": "split",
-    "children": [
-      {
-        "id": "9c6498c63fc547d2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2b175ea27ea53b34",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "d4a8d6943d40ea31",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "613833f5b9157073",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 238.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
       "templates:Insert template": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b822031cf2223748",
+  "active": "dcaaa9b26a97d71d",
   "lastOpenFiles": [
-    "01 - Atomics/Декларация типа (type assertion).md",
-    "02 - Basket/Ad-hoc-полиморфизм.md",
-    "02 - Basket/Полиморфизм в Golang.md",
-    "02 - Basket/Полиморфизм подтипов.md",
-    "01 - Atomics/Интерфейсы в Golang.md",
-    "02 - Basket/Проблемы интерфейсов в Golang.md",
-    "01 - Atomics/Соответствие интерфейсу.md",
-    "01 - Atomics/Пустой интерфейс.md",
-    "02 - Basket/Инкапсуляция.md",
-    "01 - Atomics/Инкапсуляция данных.md",
-    "02 - Basket/Инкапсуляция в Golang.md",
-    "00 - System/@files_without_tags.md",
-    "06 - Reference.tar.gz",
-    "04 - Canvas.tar.gz",
-    "03 - Assets.tar.gz",
-    "02 - Basket.tar.gz",
-    "01 - Atomics.tar.gz",
-    "00 - System.tar.gz",
-    "00 - System/@orphaned_files_output.md",
-    "00 - System/@broken_links_output.md",
-    "00 - System/@empty_files.md",
-    "01 - Atomics/JRE (Java Runtime Environment).md",
+    "01 - Atomics/Ad-hoc-полиморфизм.md",
+    "01 - Atomics/Создание автопереключения аудио в sway fedora.md",
+    "01 - Atomics/Qutebrowser.md",
     "01 - Atomics/Key is stored in legacy trusted.gpg keyring, see the DEPRECATION section in apt-key for detail.md",
-    "06 - Reference/База данных с HR.md",
-    "01 - Atomics/Важность уступки для переговоров.md",
-    "01 - Atomics/Влюбленность живет 2 года.md",
-    "01 - Atomics/Влюбленность - не настоящая любовь.md",
-    "01 - Atomics/Большинство людей заключает браки не по любви.md",
-    "01 - Atomics/Диапазоны итераторов.md",
-    "01 - Atomics/Random-access iterators.md",
-    "01 - Atomics/Output iterators.md",
-    "01 - Atomics/Input iterators.md",
-    "03 - Assets/image/Буферизованный () канал-1721217151798.jpeg",
-    "03 - Assets/image/Конвейер в Golang-1721209159920.jpeg",
-    "03 - Assets/image/Интерфейс с нулевым указателем не является нулевым-1721125194258.jpeg",
-    "03 - Assets/image/Динамическое значение интерфейса (динамический тип)-1721124487630.jpeg",
-    "03 - Assets/image/Динамическое значение интерфейса (динамический тип)-1721124042599.jpeg",
-    "03 - Assets/image/Динамическое значение интерфейса (динамический тип)-1721123972151.jpeg",
-    "03 - Assets/image/Qutebrowser-1720541710043.jpeg",
-    "Archive.tar.gz",
-    "03 - Assets/image/Список фильмов для просмотра-1718654148939.jpeg",
-    "06 - Reference/Цели",
-    "03 - Assets/image/Вход в систему-1715192816719.jpeg",
-    "03 - Assets.tar.gz.gpg",
-    "03 - Assets/image/Структура HTTP ответа-1715191763044.jpeg",
-    "00 - System/notes",
-    "Untitled.canvas"
+    "01 - Atomics/SQL ALL.md",
+    "01 - Atomics/CISC.md",
+    "01 - Atomics/Аксиомы работы с каналами.md",
+    "01 - Atomics/Deadlock.md",
+    "Профилирование в Go.md",
+    "02 - Basket/Data race и race conditions.md",
+    "Welcome.md"
   ]
 }
