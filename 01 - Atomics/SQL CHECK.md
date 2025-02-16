@@ -1,6 +1,7 @@
 #prog/db/sql #prog/db/sql
 
 > Устанавливает условие, и только такие значения смогут быть добавлены/изменены
+> Если условие не выполняется, операция вставки или обновления завершается с ошибкой
 
 *The table with the foreign key is called the child table, and the table with the primary key is called the referenced or parent table.*
 

@@ -8,5 +8,11 @@
   "readableLineLength": false,
   "strictLineBreaks": false,
   "showLineNumber": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

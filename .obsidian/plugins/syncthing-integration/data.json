@@ -1,0 +1,13 @@
+{
+  "configuration": {
+    "url": {
+      "protocol": "http",
+      "ip_address": "localhost",
+      "port": 8384
+    }
+  },
+  "devMode": false,
+  "api_key": "P2DsattojP2rNQ2GbaRNC9E75gNEPuDd",
+  "gui_username": "art",
+  "gui_password": "Artr84055"
+}

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f5af18773ee9ecd2",
+        "id": "202904765d29e250",
         "type": "tabs",
         "children": [
           {
-            "id": "11deb37e43decc11",
+            "id": "9f66fbd93e9bcee2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Atomics/Индексы.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Индексы"
             }
           }
         ]
@@ -29,6 +33,7 @@
       {
         "id": "488bf8d188567bb0",
         "type": "tabs",
+        "dimension": 60.592459605026924,
         "children": [
           {
             "id": "dcaaa9b26a97d71d",
@@ -36,7 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -49,10 +54,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#",
+                "query": "tag:#/q",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -71,6 +76,50 @@
             }
           }
         ]
+      },
+      {
+        "id": "46cbbd307a41a97f",
+        "type": "tabs",
+        "dimension": 39.40754039497307,
+        "children": [
+          {
+            "id": "139cc78c8d5223cc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01 - Atomics/Индексы.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8164965480397848,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Индексы"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,16 +130,31 @@
     "type": "split",
     "children": [
       {
-        "id": "cf717b5219366cbb",
+        "id": "eaaf3e33ab083750",
         "type": "tabs",
+        "dimension": 22.199170124481324,
         "children": [
+          {
+            "id": "9d42e3dcac51e477",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Basket/Индексы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Индексы"
+            }
+          },
           {
             "id": "0964f7de1b6d0175",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Atomics/В-деревья.md",
+                "file": "02 - Basket/Индексы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,36 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for В-деревья"
-            }
-          },
-          {
-            "id": "9d42e3dcac51e477",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Welcome.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
-            }
-          },
-          {
-            "id": "6007ba5ebfc7cc6f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Backlinks for Индексы"
             }
           },
           {
@@ -138,10 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "02 - Basket/Индексы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Индексы"
             }
           },
           {
@@ -159,11 +197,33 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "aa3f8955d5b1a765",
+        "type": "tabs",
+        "dimension": 77.80082987551867,
+        "children": [
+          {
+            "id": "6007ba5ebfc7cc6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,36 +231,39 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "11deb37e43decc11",
+  "active": "dcaaa9b26a97d71d",
   "lastOpenFiles": [
-    "01 - Atomics/Виды памяти.md",
-    "01 - Atomics/Временная сложность наихудшего случая.md",
-    "00 - System/@broken_links_output.md",
-    "01 - Atomics/Главное – разнообразие.md",
-    "01 - Atomics/Витамин D.md",
-    "01 - Atomics/Витамин C.md",
-    "01 - Atomics/Внешний (extern).md",
-    "01 - Atomics/Дескриптор.md",
-    "01 - Atomics/Директива .model ассемблер.md",
-    "01 - Atomics/Виды поведения.md",
-    "01 - Atomics/Дела развития.md",
-    "01 - Atomics/Для чего нужны указатели.md",
-    "01 - Atomics/Главное, что надо знать про витамины.md",
-    "01 - Atomics/Векторная.md",
-    "01 - Atomics/Динамическая оперативная память.md",
-    "01 - Atomics/Глобальные и статические данные.md",
-    "01 - Atomics/Декларатор.md",
-    "01 - Atomics/Виртуальный деструктор.md",
-    "01 - Atomics/Протокол HTTP.md",
-    "02 - Basket/Типы аутентификации.md",
-    "01 - Atomics/Аутентификация.md",
-    "01 - Atomics/Внутренние классы в Java.md",
-    "01 - Atomics/Влюбленность живет 2 года.md",
-    "01 - Atomics/Важность уступки для переговоров.md",
-    "01 - Atomics/Дерево (структура данных).md",
-    "01 - Atomics/Виртуальная память.md"
+    "01 - Atomics/Уровни изоляции транзакций.md",
+    "01 - Atomics/1 лаба 2 семестр Postgres.md",
+    "01 - Atomics/Интерфейсы (задачи).md",
+    "01 - Atomics/Разное по Golang (задачи).md",
+    "01 - Atomics/Методы Golang.md",
+    "01 - Atomics/Альтернативы сладким перекусам.md",
+    "01 - Atomics/Индексы.md",
+    "01 - Atomics/Хеш-индексы.md",
+    "01 - Atomics/Покрывающие индексы (Covering Index).md",
+    "01 - Atomics/B-деревья (B-Tree).md",
+    "01 - Atomics/SELECT FOR UPDATE.md",
+    "01 - Atomics/Аномалия сериализации (Serialization Anomaly).md",
+    "01 - Atomics/Аномалии.md",
+    "01 - Atomics/Потерянное обновление (Lost Update).md",
+    "01 - Atomics/Фантомное чтение (Phantom Read).md",
+    "01 - Atomics/Неповторяющееся чтение (Non-Repeatable Read).md",
+    "01 - Atomics/Грязное чтение (Dirty Read).md",
+    "01 - Atomics/Serializable (Сериализуемость).md",
+    "01 - Atomics/Repeatable Read (Повторяемое чтение).md",
+    "01 - Atomics/Read Committed (Чтение зафиксированных данных).md",
+    "01 - Atomics/Read Uncommitted (Чтение незафиксированных данных).md",
+    "01 - Atomics/Изоляция (Isolation).md",
+    "01 - Atomics/Согласованность (Consistency).md",
+    "01 - Atomics/Бизнес-логика.md",
+    "01 - Atomics/ACID.md",
+    "01 - Atomics/Долговечность (Durability).md",
+    "03 - Assets/image/B-деревья (B-Tree)-1739647316606.jpeg",
+    "03 - Assets/image/Pasted image 20250212000329.png"
   ]
 }
