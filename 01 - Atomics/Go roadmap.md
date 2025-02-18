@@ -1,4 +1,4 @@
-#prog #prog/golang 
+#note 
 
 # Golang Backend Developer Roadmap (0-18 months)
 

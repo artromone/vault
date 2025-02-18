@@ -1,3 +1,3 @@
-#prog/golang #prog
+#prog/golang #prog #todo
 
 Возвращает ошибку – результат, брошенный паникой

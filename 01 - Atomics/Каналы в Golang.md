@@ -1,4 +1,4 @@
-#prog #prog/golang #prog/golang/goroutines 
+#prog #prog/golang #prog/golang/goroutines #todo
 
 > Механизм связи между go программами
 

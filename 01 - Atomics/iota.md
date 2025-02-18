@@ -1,3 +1,3 @@
-#prog/golang 
+#prog/golang #todo #prog 
 
 Автоинкремент для констант

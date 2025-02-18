@@ -1,4 +1,4 @@
-#prog #prog/golang #prog/db 
+#prog #prog/golang #prog/db #todo
 
 noSQL – K/V, для быстрого ответа, сильно ограничены по форматам
 распределенных табличек не наделаешь

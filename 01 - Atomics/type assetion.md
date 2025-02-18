@@ -1,4 +1,4 @@
-#prog #prog/golang  
+#prog #prog/golang  #todo
 
 Получить доступ к конкретному типу значения из интерфейса
 

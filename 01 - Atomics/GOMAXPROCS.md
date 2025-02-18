@@ -1,4 +1,4 @@
-#prog #prog/golang #prog/golang/goroutines 
+#prog #prog/golang #prog/golang/goroutines #todo
 
 > Сколько потоков операционной системы могут одновременно активно выполнять код Golang
  

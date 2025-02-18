@@ -1,4 +1,4 @@
-#prog #prog/golang #prog/golang/interface 
+#prog #prog/golang #prog/golang/interface #todo
 
 > Операция, применимая к значению-интерфейсу
 

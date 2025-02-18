@@ -1,3 +1,3 @@
-#prog #prog/golang 
+#prog #prog/golang #todo
 
 > Способ идентификации одной и той же переменной

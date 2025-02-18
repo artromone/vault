@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2174aef81c0a059d",
+        "id": "ef55bec56af1e1b1",
         "type": "tabs",
         "children": [
           {
-            "id": "b68324a15ce3d8f9",
+            "id": "988e8f3124002cf5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Atomics/Составные типы в Golang.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Составные типы в Golang"
             }
           }
         ]
@@ -50,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#prog/computer_architecture",
+                "query": "tag:#prog/golang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,7 +85,8 @@
               "title": "Trash explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "46cbbd307a41a97f",
@@ -94,6 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01 - Atomics/Составные типы в Golang.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Составные типы в Golang"
             }
           }
         ]
@@ -240,34 +246,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dcaaa9b26a97d71d",
+  "active": "988e8f3124002cf5",
   "lastOpenFiles": [
-    "01 - Atomics/Альтернативы сладким перекусам.md",
-    "00 - System/@files_without_tags.md",
-    "00 - System/@empty_files.md",
-    "00 - System/@orphaned_files_output.md",
-    "01 - Atomics/Контекст.md",
+    "01 - Atomics/Составные типы в Golang (2).md",
     "01 - Atomics/Составные типы в Golang.md",
-    "00 - System/@broken_links_output.md",
-    "00 - System/@/Задачи по организации.md",
-    "01 - Atomics/At-least-once (минимум один раз).md",
-    "01 - Atomics/Как избавиться от дублирования данных.md",
-    "01 - Atomics/Связь Один к одному (One-to-One).md",
-    "01 - Atomics/Связь Один ко многим (One-to-Many).md",
-    "01 - Atomics/Связь Многие ко многим (Many-to-Many).md",
-    "01 - Atomics/Связи в БД.md",
-    "01 - Atomics/At-most-once (максимум один раз).md",
-    "01 - Atomics/Exactly-once (ровно один раз).md",
-    "01 - Atomics/Гарантии доставки.md",
-    "01 - Atomics/Репликация и надежность.md",
-    "01 - Atomics/Роль консьюмера.md",
-    "01 - Atomics/Внешние системы дедупликации.md",
-    "01 - Atomics/Идемпотентная обработка на стороне приложения.md",
-    "01 - Atomics/Коммит оффсетов после обработки.md",
-    "01 - Atomics/Семантические уникальные идентификаторы.md",
-    "01 - Atomics/Дедупликация на стороне консьюмера.md",
-    "01 - Atomics/Транзакции в Kafka.md",
-    "01 - Atomics/Идемпотентный продюсер (на стороне Kafka).md",
+    "01 - Atomics/Четыре уровня транзакций.md",
+    "01 - Atomics/Функция с возможным аварийным завершением.md",
+    "01 - Atomics/Эвакуация в мапе.md",
+    "01 - Atomics/Удаление мапы.md",
+    "01 - Atomics/Строки в Go.md",
+    "01 - Atomics/Сохранение указателя в глобальную переменную.md",
+    "01 - Atomics/Сложность управления параллелизмом.md",
+    "01 - Atomics/Планировщик Go.md",
+    "01 - Atomics/Сборщик мусора.md",
+    "01 - Atomics/Реализация set посредством map.md",
+    "01 - Atomics/Растущие стеки.md",
+    "01 - Atomics/Профилирование в Go.md",
+    "01 - Atomics/Псевдоним в Golang.md",
+    "01 - Atomics/Проблемы синхронизации.md",
+    "01 - Atomics/Приведение типов.md",
+    "01 - Atomics/Почему сообещния об ошибках надо писать с маленькой буквы.md",
+    "01 - Atomics/Почему закрывать канал должен только отправитель.md",
+    "01 - Atomics/Паттерны.md",
+    "01 - Atomics/Ошибки as и is golang.md",
+    "01 - Atomics/Однонаправленные каналы.md",
+    "01 - Atomics/Ограничения типов (Constraints).md",
+    "01 - Atomics/Обработка паники в горутинах.md",
+    "01 - Atomics/Нетипизированная константа Go.md",
+    "01 - Atomics/Несколько defer.md",
     "03 - Assets/image/B-деревья (B-Tree)-1739647316606.jpeg",
     "03 - Assets/image/Pasted image 20250212000329.png"
   ]
