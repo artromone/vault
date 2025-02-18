@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b374f9c9f62e030b",
+        "id": "72f0415fcb5819f0",
         "type": "tabs",
         "children": [
           {
-            "id": "7995deb85b7cd31b",
+            "id": "1f842e67d00b7607",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Basket/Обработка паники.md",
+                "file": "02 - Basket/Роль консьюмера.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Обработка паники"
-            }
-          },
-          {
-            "id": "75cbb0aadac21d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Basket/Golang разница int int64.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Golang разница int int64"
-            }
-          },
-          {
-            "id": "d2df56d7f67b1128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Basket/Выравнивание в Golang.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Выравнивание в Golang"
-            }
-          },
-          {
-            "id": "b0bdf9a0fd25332f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Basket/Несколько defer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Несколько defer"
+              "title": "Роль консьюмера"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "эвакуация",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,8 +85,7 @@
               "title": "Trash explorer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "46cbbd307a41a97f",
@@ -142,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Basket/Выравнивание в Golang.md",
+                "file": "02 - Basket/Роль консьюмера.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +126,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Выравнивание в Golang"
+              "title": "Graph of Роль консьюмера"
             }
           }
         ]
@@ -289,34 +245,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d2df56d7f67b1128",
+  "active": "1f842e67d00b7607",
   "lastOpenFiles": [
+    "02 - Basket/Разница стека и кучи.md",
+    "02 - Basket/Очень большие объекты.md",
+    "02 - Basket/Передача в канал или интерфейс.md",
+    "02 - Basket/Сохранение указателя в глобальную переменную.md",
+    "02 - Basket/Возврат указателя на локальную переменную.md",
+    "02 - Basket/Куча памяти.md",
+    "02 - Basket/Стек памяти.md",
+    "01 - Atomics/Ассоциативный метод доступа к памяти.md",
+    "01 - Atomics/Растущие стеки.md",
+    "01 - Atomics/Уровни изоляции транзакций.md",
+    "01 - Atomics/Read Uncommitted (Чтение незафиксированных данных).md",
+    "01 - Atomics/Read Committed (Чтение зафиксированных данных).md",
+    "01 - Atomics/Repeatable Read (Повторяемое чтение).md",
     "02 - Basket/Выравнивание в Golang.md",
-    "02 - Basket/Golang разница int int64.md",
-    "02 - Basket/defer в циклах.md",
-    "01 - Atomics/defer.md",
-    "02 - Basket/defer в циклах 1.md",
+    "01 - Atomics/Фантомное чтение (Phantom Read).md",
+    "01 - Atomics/Serializable (Сериализуемость).md",
+    "01 - Atomics/Согласованность (Consistency).md",
+    "01 - Atomics/Изоляция (Isolation).md",
+    "01 - Atomics/Неповторяющееся чтение (Non-Repeatable Read).md",
+    "01 - Atomics/Грязное чтение (Dirty Read).md",
+    "01 - Atomics/Потерянное обновление (Lost Update).md",
+    "01 - Atomics/Аномалия сериализации (Serialization Anomaly).md",
+    "01 - Atomics/SELECT FOR UPDATE.md",
+    "01 - Atomics/Аномалии.md",
     "02 - Basket/Несколько defer.md",
-    "01 - Atomics/Безопасность операций с мапами.md",
     "02 - Basket/Обработка паники.md",
-    "02 - Basket/Эвакуация в мапе.md",
-    "01 - Atomics/Операции с мапами.md",
-    "01 - Atomics/Мапа.md",
-    "02 - Basket/Нулевая мапа.md",
-    "01 - Atomics/Итерация по мапе.md",
-    "02 - Basket/Внутреннее устройство.md",
-    "01 - Atomics/map.md",
-    "02 - Basket/Коллизии.md",
-    "01 - Atomics/Реализация set посредством map.md",
-    "01 - Atomics/Удаление мапы.md",
-    "02 - Basket/Функция Map для слайса.md",
-    "02 - Basket/Дженерики в структурах.md",
-    "02 - Basket/Связь Многие ко многим (Many-to-Many).md",
-    "02 - Basket/Как данные хранятся и ищутся.md",
-    "01 - Atomics/Дженерики в Go.md",
-    "01 - Atomics/Удаление отображения.md",
-    "02 - Basket/Ограничения типов (Constraints).md",
-    "02 - Basket/Связи в БД.md",
     "03 - Assets/image/B-деревья (B-Tree)-1739647316606.jpeg",
     "03 - Assets/image/Pasted image 20250212000329.png"
   ]
