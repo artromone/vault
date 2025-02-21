@@ -4,24 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "ef55bec56af1e1b1",
+        "id": "7a913537b518a83b",
         "type": "tabs",
         "children": [
           {
-            "id": "988e8f3124002cf5",
+            "id": "5047969379838dda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Atomics/Составные типы в Golang.md",
+                "file": "01 - Atomics/Аномалии.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Составные типы в Golang"
+              "title": "Аномалии"
+            }
+          },
+          {
+            "id": "949169fe49a2c8b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Basket/Разное.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Разное"
+            }
+          },
+          {
+            "id": "db6c0e1b978e2327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Basket/разное 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "разное 2"
+            }
+          },
+          {
+            "id": "b1013e88ff46d9c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Basket/Весь опыт работы не связанный с Go нейронками.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Весь опыт работы не связанный с Go нейронками"
+            }
+          },
+          {
+            "id": "6495f45203f7b7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Basket/Запрос.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Запрос"
+            }
+          },
+          {
+            "id": "295d03432e944ced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Basket/Весь опыт работы не связанный с Go нейронками2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Весь опыт работы не связанный с Go нейронками2"
+            }
+          },
+          {
+            "id": "3c55e9530754982f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Atomics/Уровни изоляции транзакций.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Уровни изоляции транзакций"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -54,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#prog/golang",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,8 +170,7 @@
               "title": "Trash explorer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "46cbbd307a41a97f",
@@ -99,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Atomics/Составные типы в Golang.md",
+                "file": "02 - Basket/Весь опыт работы не связанный с Go нейронками2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +211,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Составные типы в Golang"
+              "title": "Graph of Весь опыт работы не связанный с Go нейронками2"
             }
           }
         ]
@@ -246,35 +330,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "988e8f3124002cf5",
+  "active": "295d03432e944ced",
   "lastOpenFiles": [
-    "01 - Atomics/Составные типы в Golang (2).md",
-    "01 - Atomics/Составные типы в Golang.md",
-    "01 - Atomics/Четыре уровня транзакций.md",
-    "01 - Atomics/Функция с возможным аварийным завершением.md",
-    "01 - Atomics/Эвакуация в мапе.md",
-    "01 - Atomics/Удаление мапы.md",
-    "01 - Atomics/Строки в Go.md",
-    "01 - Atomics/Сохранение указателя в глобальную переменную.md",
-    "01 - Atomics/Сложность управления параллелизмом.md",
-    "01 - Atomics/Планировщик Go.md",
+    "02 - Basket/Запрос.md",
+    "02 - Basket/Весь опыт работы не связанный с Go нейронками2.md",
+    "02 - Basket/Весь опыт работы не связанный с Go нейронками.md",
+    "02 - Basket/разное 2.md",
+    "03 - Assets/image/разное 2-1740133507502.jpeg",
+    "03 - Assets/image/разное 2-1740133495769.jpeg",
+    "03 - Assets/image/разное 2-1740133476104.jpeg",
+    "03 - Assets/image/разное 2-1740133436488.jpeg",
+    "03 - Assets/image/разное 2-1740133406373.jpeg",
+    "03 - Assets/image/разное 2-1740133378294.jpeg",
+    "03 - Assets/image/разное 2-1740133351777.jpeg",
+    "03 - Assets/image/разное 2-1740133331116.jpeg",
+    "03 - Assets/image/разное 2-1740133301070.jpeg",
+    "03 - Assets/image/разное 2-1740133287539.jpeg",
+    "02 - Basket/Разное.md",
+    "02 - Basket/Interview.md",
+    "01 - Atomics/Аномалии.md",
+    "01 - Atomics/Уровни изоляции транзакций.md",
+    "01 - Atomics/Аномалия сериализации (Serialization Anomaly).md",
+    "02 - Basket/Лаба по sql.md",
+    "01 - Atomics/1 лаба 2 семестр Postgres.md",
+    "02 - Basket/Собесы авито.md",
+    "02 - Basket/В голанг разработку без опыта.md",
     "01 - Atomics/Сборщик мусора.md",
-    "01 - Atomics/Реализация set посредством map.md",
+    "01 - Atomics/Контекст.md",
+    "01 - Atomics/Методы Golang.md",
+    "01 - Atomics/Каналы в Golang.md",
+    "02 - Basket/Остановка горутин через канал done.md",
+    "02 - Basket/Worker Pool.md",
+    "01 - Atomics/Закрытие канала.md",
+    "01 - Atomics/Когда стоит закрывать канал.md",
+    "01 - Atomics/Планировщик Go.md",
     "01 - Atomics/Растущие стеки.md",
-    "01 - Atomics/Профилирование в Go.md",
-    "01 - Atomics/Псевдоним в Golang.md",
-    "01 - Atomics/Проблемы синхронизации.md",
-    "01 - Atomics/Приведение типов.md",
-    "01 - Atomics/Почему сообещния об ошибках надо писать с маленькой буквы.md",
-    "01 - Atomics/Почему закрывать канал должен только отправитель.md",
-    "01 - Atomics/Паттерны.md",
-    "01 - Atomics/Ошибки as и is golang.md",
-    "01 - Atomics/Однонаправленные каналы.md",
-    "01 - Atomics/Ограничения типов (Constraints).md",
-    "01 - Atomics/Обработка паники в горутинах.md",
-    "01 - Atomics/Нетипизированная константа Go.md",
-    "01 - Atomics/Несколько defer.md",
-    "03 - Assets/image/B-деревья (B-Tree)-1739647316606.jpeg",
-    "03 - Assets/image/Pasted image 20250212000329.png"
+    "01 - Atomics/Горутины и каналы.md",
+    "01 - Atomics/Многозадачность в Golang.md",
+    "01 - Atomics/Анонимные функции.md"
   ]
 }
