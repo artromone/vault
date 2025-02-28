@@ -1,7 +1,7 @@
 #prog #prog/db/sql #prog/db
 
 > Запрещает разрыв связи между таблицами
-> `FOREIGN` – поле в одной таблице, которое относится к [[SQL PRIMARY KEY]] в другой таблице
+> `FOREIGN` – поле в одной таблице, которое относится к [[SQL PRIMARY KEY (первичный ключ)]] в другой таблице
 
 *The table with the foreign key is called the child table, and the table with the primary key is called the referenced or parent table.*
 

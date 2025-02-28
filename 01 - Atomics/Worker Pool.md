@@ -1,3 +1,5 @@
+#prog #prog/golang #prog/concurrency 
+
 ```go
 tasks := make(chan int, 10)
 // Запуск 3 работников
@@ -14,3 +16,4 @@ for i := 0; i < 10; i++ {
 }
 close(tasks)
 ```
+

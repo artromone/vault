@@ -13,7 +13,7 @@ INNER JOIN table2
 ON table1.column_name = table2.column_name;
 ```
 ```sql
-SELECT ProductID, ProductName, CategoryName  
+SELECT Products.ProductID, Products.ProductName, Products.CategoryName -- указываем таблицу
 FROM Products  
 INNER JOIN Categories ON Products.CategoryID = Categories.CategoryID;
 ```

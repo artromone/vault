@@ -45,3 +45,5 @@ SELECT * FROM Customers
 WHERE Country='Germany'  
 FETCH FIRST 3 ROWS ONLY;
 ```
+
+Сначала `LIMIT`, потом `OFFSET`

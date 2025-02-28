@@ -19,3 +19,5 @@ UNION
 SELECT City FROM Suppliers  
 ORDER BY City;
 ```
+
+В обоих – `INTERSECT`

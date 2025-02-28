@@ -20,8 +20,8 @@ CREATE TABLE table_name (
 
 - [[SQL NOT NULL]] - В column не может быть [[SQL NULL]] значения
 - [[SQL UNIQUE]] - Все значения в column должны быть разными
-- [[SQL PRIMARY KEY]] - Комбинация [[SQL NOT NULL]] и [[SQL UNIQUE]]. Уникальный идентификатор для каждого row таблицы
-- [[SQL FOREIGN KEY]] - Запрещает разрыв связи между таблицами
+- [[SQL PRIMARY KEY (первичный ключ)]] - Комбинация [[SQL NOT NULL]] и [[SQL UNIQUE]]. Уникальный идентификатор для каждого row таблицы
+- [[SQL FOREIGN KEY (внешний ключ)]] - Запрещает разрыв связи между таблицами
 - [[SQL CHECK]] - Проверка что значения column соответствуют определенным условиям
 - [[SQL DEFAULT]] - Задает дефолтное значение, если никакого не указано
 - [[SQL CREATE INDEX]] - Used to create and retrieve data from the database very quickly

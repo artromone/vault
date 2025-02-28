@@ -1,7 +1,7 @@
 #prog #prog/db/sql #prog/db/sql
 
-> Все значения в column должны быть разными. [[SQL PRIMARY KEY]] обладает этим свойством по умолчанию.
-> Может быть только один [[SQL PRIMARY KEY]] но сколько угодно `UNIQUE`
+> Все значения в column должны быть разными. [[SQL PRIMARY KEY (первичный ключ)]] обладает этим свойством по умолчанию.
+> Может быть только один [[SQL PRIMARY KEY (первичный ключ)]] но сколько угодно `UNIQUE`
 
 ```sql
 CREATE TABLE Persons (  
