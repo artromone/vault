@@ -6,4 +6,4 @@
 DROP DATABASE databasename;
 ```
 
-`SHOW DATABASES;` – ? #/q 
+`SHOW DATABASES;` – ?

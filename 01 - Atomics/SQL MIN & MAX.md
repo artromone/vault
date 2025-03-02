@@ -18,7 +18,7 @@ SELECT MIN(Price) AS SmallestPrice
 FROM Products;
 ```
 
-Использование совместно с Group By #/q
+Использование совместно с Group By
 ```sql
 SELECT MIN(Price) AS SmallestPrice, CategoryID  
 FROM Products  

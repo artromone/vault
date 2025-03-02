@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a58f8d9c0bd2f98d",
+        "id": "8e7c90cf88a47793",
         "type": "tabs",
         "children": [
           {
-            "id": "3c1aa32035085421",
+            "id": "c95d43a45be970a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Atomics/Остановка горутин через канал done.md",
+                "file": "02 - Basket/Транспортный - Transport.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Остановка горутин через канал done"
+              "title": "Транспортный - Transport"
+            }
+          },
+          {
+            "id": "baf1c492aa3eb351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Atomics/Прикладной уровень - Application.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Прикладной уровень - Application"
             }
           }
         ]
@@ -54,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "less",
+                "query": "разно",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Atomics/Остановка горутин через канал done.md",
+                "file": "02 - Basket/Транспортный - Transport.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Остановка горутин через канал done"
+              "title": "Graph of Транспортный - Transport"
             }
           }
         ]
@@ -246,44 +260,52 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "dcaaa9b26a97d71d",
+  "active": "c95d43a45be970a2",
   "lastOpenFiles": [
-    "01 - Atomics/Компилятор размещает на стеке вместо кучи и наоборот.md",
-    "01 - Atomics/Теги у полей структур.md",
-    "01 - Atomics/Функция init запускается при импортировании пакета первом.md",
-    "01 - Atomics/Graceful shutdown 1.md",
-    "01 - Atomics/Sakila.md",
-    "01 - Atomics/testify.md",
-    "01 - Atomics/Пример Palindrome.md",
-    "01 - Atomics/Table Driven Test.md",
-    "01 - Atomics/Завершение теста.md",
-    "01 - Atomics/Go тесты tests.md",
-    "01 - Atomics/sync.Cond.md",
-    "01 - Atomics/Worker Pool.md",
-    "01 - Atomics/SUBSTRING.md",
-    "01 - Atomics/Коррелированный подзапрос.md",
-    "01 - Atomics/Материализованное представление.md",
-    "06 - Reference/Запрос.md",
-    "01 - Atomics/SQL PIVOT.md",
-    "01 - Atomics/Оптимизация через GROUP BY.md",
-    "01 - Atomics/SQLTest (задачи).md",
-    "01 - Atomics/SUBSTRING_INDEX.md",
-    "01 - Atomics/SQL – Structured Query Language.md",
-    "01 - Atomics/Порядок логических операторов.md",
-    "01 - Atomics/Остановка горутин через канал done.md",
-    "02 - Basket/Interview.md",
-    "06 - Reference/Компании, в которых мог работать.md",
-    "06 - Reference/Весь опыт работы не связанный с Go нейронками.md",
-    "03 - Assets/canvas/YouTrackFlow.canvas",
-    "03 - Assets/image/Untitled-1740500214559.jpeg",
-    "03 - Assets/image/Теги у полей структур-1740397233254.jpeg",
-    "03 - Assets/image/Sakila-1740152499633.jpeg",
-    "03 - Assets/image/разное 2-1740133507502.jpeg",
-    "03 - Assets/image/разное 2-1740133495769.jpeg",
-    "03 - Assets/image/разное 2-1740133476104.jpeg",
-    "03 - Assets/image/разное 2-1740133436488.jpeg",
-    "03 - Assets/image/разное 2-1740133406373.jpeg",
-    "03 - Assets/image/разное 2-1740133378294.jpeg",
-    "03 - Assets/image/разное 2-1740133351777.jpeg"
+    "02 - Basket/Lock-free подходы.md",
+    "02 - Basket/Многопоточка (задачи).md",
+    "02 - Basket/Транспортный - Transport.md",
+    "02 - Basket/Прикладной - Application.md",
+    "01 - Atomics/Прикладной уровень - Application.md",
+    "02 - Basket/Сервис, интерфейс и протокол.md",
+    "01 - Atomics/интерфейс.md",
+    "01 - Atomics/DNS.md",
+    "03 - Assets/image 1/Транспортный - Transport-1740940499593.jpeg",
+    "01 - Atomics/Модель TCP IP.md",
+    "01 - Atomics/IP-адрес.md",
+    "01 - Atomics/MAC-адрес.md",
+    "02 - Basket/Сетевых интерфейсов - Network Access.md",
+    "03 - Assets/image 1/Модель TCP IP-1740938631825.jpeg",
+    "01 - Atomics/Сетевой уровень - Network.md",
+    "Интернет - Internet.md",
+    "01 - Atomics/Сравнение моделей OSI и TCP IP.md",
+    "01 - Atomics/Модель OSI.md",
+    "03 - Assets/image/Сопоставление моделей OSI и TCP IP-1714503470610.jpeg",
+    "03 - Assets/image 1/Сравнение моделей OSI и TCP IP-1740938158426.jpeg",
+    "01 - Atomics/Физический уровень - Physical.md",
+    "01 - Atomics/Канальный уровень - Data Link.md",
+    "01 - Atomics/Транспортный уровень - Transport.md",
+    "01 - Atomics/Сеансовый уровень - Session.md",
+    "01 - Atomics/Представления уровень - Presentation.md",
+    "01 - Atomics/Взаимодействие уровней друг с другом.md",
+    "01 - Atomics/Сетевая модель.md",
+    "02 - Basket/Архитектура сети.md",
+    "02 - Basket/Сообщение в сети.md",
+    "Untitled.md",
+    "06 - Reference/озон/Задачник.pdf",
+    "03 - Assets/image 1/разное 4-1740747402569.jpeg",
+    "06 - Reference/озон/ylc.pdf",
+    "06 - Reference/озон/24-12-05-tech-screening.txt",
+    "06 - Reference/озон/Озон.rtf",
+    "06 - Reference/озон/ozon.txt",
+    "06 - Reference/озон/ozon-final.txt",
+    "06 - Reference/озон",
+    "03 - Assets/image 1/разное 4-1740746342140.jpeg",
+    "03 - Assets/image 1/разное 4-1740746332073.jpeg",
+    "03 - Assets/image 1/разное 4-1740746321627.jpeg",
+    "03 - Assets/image 1/разное 4-1740746309199.jpeg",
+    "03 - Assets/image 1/разное 4-1740746288275.jpeg",
+    "03 - Assets/image 1",
+    "03 - Assets/canvas/YouTrackFlow.canvas"
   ]
 }

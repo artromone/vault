@@ -18,7 +18,7 @@ SELECT SUM(Quantity) AS total
 FROM OrderDetails;
 ```
 
-C групбай #/q 
+C групбай
 
 ```sql
 SELECT OrderID, SUM(Quantity) AS [Total Quantity]  

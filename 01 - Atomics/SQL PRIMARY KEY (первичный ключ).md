@@ -25,7 +25,7 @@ CREATE TABLE Persons (
     CONSTRAINT PK_Person PRIMARY KEY (ID,LastName)  
 );
 ```
-#/q 
+
 
 ```sql
 ALTER TABLE Persons  
