@@ -1,4 +1,4 @@
-#prog #prog/network  #prog #prog/network/layer 
+#prog/network  #prog #prog/network/layer 
 
 В [[Модель TCP IP]] не выделены отдельно уровни сеансовый и представления, их функции реализуются (кому надо) на прикладном
 

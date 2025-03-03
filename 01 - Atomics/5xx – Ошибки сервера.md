@@ -4,8 +4,8 @@
 
 Запрос пришел, но сервер не смог его обработать или что-то пошло не так
 
-500 – Internal Server Error
-501 – Not Implemented
+**500 – Internal Server Error**
+**501 – Not Implemented**
 502 – Bad Gateway
 503 – Service Unavailable
 504 – Gateway Timeout

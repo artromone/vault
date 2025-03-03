@@ -1,4 +1,4 @@
-#KAFKA 
+#prog #prog/msg_broker #prog/msg_broker/kafka 
 
 > Сообщение доставляется ровно один раз без потерь и дублей
 

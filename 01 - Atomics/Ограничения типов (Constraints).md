@@ -1,4 +1,4 @@
-#prog/golang #prog #JENERICS 
+#prog/golang #prog
 
 ```go
 import "golang.org/x/exp/constraints"

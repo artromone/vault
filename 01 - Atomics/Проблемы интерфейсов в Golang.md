@@ -1,3 +1,5 @@
+#prog #prog/golang/interface #prog/golang 
+
 Мы можем присвоить переменную типа `io.ReadWriter` переменной типа `io.Reader`, но мы не можем присвоить переменную типа `[]io.ReadWriter` переменной типа `[]io.Reader`
 
 **Почему нельзя присвоить `[]io.ReadWriter` переменной типа `[]io.Reader`?**  

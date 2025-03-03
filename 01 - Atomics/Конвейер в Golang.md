@@ -1,4 +1,4 @@
-#prog #prog/golang #prog/golang/goroutines #todo
+#prog #prog/golang #prog/golang/goroutines #/todo
 
 > Использование каналов, в котором go программы подключаются так, чтобы выход одной являлся входом для другой
 

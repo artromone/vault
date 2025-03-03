@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e7c90cf88a47793",
+        "id": "9f801ebac43ffee6",
         "type": "tabs",
         "children": [
           {
-            "id": "c95d43a45be970a2",
+            "id": "5d7a1c0c2b78b159",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Basket/Транспортный - Transport.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Транспортный - Transport"
-            }
-          },
-          {
-            "id": "baf1c492aa3eb351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Atomics/Прикладной уровень - Application.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Прикладной уровень - Application"
+              "title": "New tab"
             }
           }
         ]
@@ -68,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "разно",
+                "query": "tag:#/tmp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,7 +94,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Basket/Транспортный - Transport.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +121,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Транспортный - Transport"
+              "title": "Graph view"
             }
           }
         ]
@@ -260,52 +241,53 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "c95d43a45be970a2",
+  "active": "5d7a1c0c2b78b159",
   "lastOpenFiles": [
-    "02 - Basket/Lock-free подходы.md",
-    "02 - Basket/Многопоточка (задачи).md",
-    "02 - Basket/Транспортный - Transport.md",
-    "02 - Basket/Прикладной - Application.md",
-    "01 - Atomics/Прикладной уровень - Application.md",
-    "02 - Basket/Сервис, интерфейс и протокол.md",
-    "01 - Atomics/интерфейс.md",
-    "01 - Atomics/DNS.md",
-    "03 - Assets/image 1/Транспортный - Transport-1740940499593.jpeg",
-    "01 - Atomics/Модель TCP IP.md",
-    "01 - Atomics/IP-адрес.md",
-    "01 - Atomics/MAC-адрес.md",
-    "02 - Basket/Сетевых интерфейсов - Network Access.md",
-    "03 - Assets/image 1/Модель TCP IP-1740938631825.jpeg",
-    "01 - Atomics/Сетевой уровень - Network.md",
-    "Интернет - Internet.md",
-    "01 - Atomics/Сравнение моделей OSI и TCP IP.md",
-    "01 - Atomics/Модель OSI.md",
-    "03 - Assets/image/Сопоставление моделей OSI и TCP IP-1714503470610.jpeg",
-    "03 - Assets/image 1/Сравнение моделей OSI и TCP IP-1740938158426.jpeg",
-    "01 - Atomics/Физический уровень - Physical.md",
-    "01 - Atomics/Канальный уровень - Data Link.md",
-    "01 - Atomics/Транспортный уровень - Transport.md",
-    "01 - Atomics/Сеансовый уровень - Session.md",
-    "01 - Atomics/Представления уровень - Presentation.md",
-    "01 - Atomics/Взаимодействие уровней друг с другом.md",
-    "01 - Atomics/Сетевая модель.md",
-    "02 - Basket/Архитектура сети.md",
-    "02 - Basket/Сообщение в сети.md",
-    "Untitled.md",
+    "01 - Atomics/Атомарность кода.md",
+    "01 - Atomics/SQL Aggregate.md",
+    "00 - System/@files_without_tags.md",
+    "01 - Atomics/В чем суть ООП.md",
+    "01 - Atomics/Ad-hoc-полиморфизм.md",
+    "00 - System/@broken_links_output.md",
+    "00 - System/@orphaned_files_output.md",
+    "01 - Atomics/Полиморфизм в Golang.md",
+    "01 - Atomics/Проблемы интерфейсов в Golang.md",
+    "01 - Atomics/Разница объявления через двоеточие и равно и var.md",
+    "01 - Atomics/Редактирование slice.md",
+    "01 - Atomics/Функция init запускается при импортировании пакета первом.md",
+    "06 - Reference/разное 4.md",
+    "06 - Reference/разное 3.md",
+    "06 - Reference/разное 2.md",
+    "06 - Reference/Собесы авито.md",
+    "06 - Reference/Разное.md",
+    "06 - Reference/Пред место работы нейронки2.md",
+    "06 - Reference/Пред место работы нейронки.md",
+    "06 - Reference/Легенда пред место работы.md",
+    "06 - Reference/Компании, в которых мог работать.md",
+    "06 - Reference/Запрос3.md",
+    "06 - Reference/Запрос.md",
+    "06 - Reference/Весь опыт работы не связанный с Go нейронками2.md",
+    "06 - Reference/Весь опыт работы не связанный с Go нейронками.md",
+    "00 - System/@empty_files.md",
+    "03 - Assets/canvas/YouTrackFlow.canvas",
+    "03 - Assets/image/Формат ответа DNS-1741011851338.jpeg",
+    "03 - Assets/image/Формат ответа DNS-1741011786128.jpeg",
+    "03 - Assets/image/Формат запроса DNS-1741011678037.jpeg",
+    "03 - Assets/image/Протокол DNS-1741011432143.jpeg",
+    "03 - Assets/image/Домен-1740998064666.jpeg",
+    "03 - Assets/image/Варианты разделяемого кеша-1740988973378.jpeg",
+    "03 - Assets/image/Варианты разделяемого кеша-1740988946557.jpeg",
+    "03 - Assets/image/Транспортный - Transport-1740940499593.jpeg",
+    "03 - Assets/image/Модель TCP IP-1740938631825.jpeg",
+    "03 - Assets/image/Сравнение моделей OSI и TCP IP-1740938158426.jpeg",
+    "03 - Assets/image 2",
     "06 - Reference/озон/Задачник.pdf",
-    "03 - Assets/image 1/разное 4-1740747402569.jpeg",
     "06 - Reference/озон/ylc.pdf",
     "06 - Reference/озон/24-12-05-tech-screening.txt",
     "06 - Reference/озон/Озон.rtf",
     "06 - Reference/озон/ozon.txt",
     "06 - Reference/озон/ozon-final.txt",
     "06 - Reference/озон",
-    "03 - Assets/image 1/разное 4-1740746342140.jpeg",
-    "03 - Assets/image 1/разное 4-1740746332073.jpeg",
-    "03 - Assets/image 1/разное 4-1740746321627.jpeg",
-    "03 - Assets/image 1/разное 4-1740746309199.jpeg",
-    "03 - Assets/image 1/разное 4-1740746288275.jpeg",
-    "03 - Assets/image 1",
-    "03 - Assets/canvas/YouTrackFlow.canvas"
+    "03 - Assets/image 1"
   ]
 }

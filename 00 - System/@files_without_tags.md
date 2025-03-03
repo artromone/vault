@@ -1,1 +1,2 @@
-- [[01 - Atomics/Альтернативы сладким перекусам.md]]
+- [[01 - Atomics/SQL Aggregate.md]]
+- [[01 - Atomics/Ad-hoc-полиморфизм.md]]

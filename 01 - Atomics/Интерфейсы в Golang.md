@@ -1,4 +1,4 @@
-#prog #prog/golang #prog/golang/interface #todo
+#prog #prog/golang #prog/golang/interface #/todo
 
 > Выражают обобщения или абстракции поведения других типов
 > Интерфейс содержит только контракт (между потребителем и реализацией)

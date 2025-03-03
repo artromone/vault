@@ -1,4 +1,4 @@
-#prog #prog/golang #prog/golang/struct #todo
+#prog #prog/golang #prog/golang/struct #/todo
 
 > Поле с типом, но без имени
 

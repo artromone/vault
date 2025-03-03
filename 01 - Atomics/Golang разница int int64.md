@@ -1,4 +1,4 @@
-#prog/golang #prog #DEFER 
+#prog/golang #prog #prog/golang/defer
 
 - **`int`**  
     Зависит от архитектуры:

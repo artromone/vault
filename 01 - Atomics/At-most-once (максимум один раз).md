@@ -1,4 +1,4 @@
-#KAFKA 
+#prog #prog/msg_broker #prog/msg_broker/kafka 
 
 > Сообщение может быть потеряно, но никогда не доставится повторно
 

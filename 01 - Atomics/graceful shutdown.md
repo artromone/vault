@@ -1,4 +1,4 @@
-#prog #prog/golang  #todo
+#prog #prog/golang  #/todo
 
 корректное завершение работы
 - освобождение ресурсов

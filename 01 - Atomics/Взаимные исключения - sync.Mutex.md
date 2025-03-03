@@ -1,4 +1,4 @@
-#prog #prog/golang #prog/concurrency #todo
+#prog #prog/golang #prog/concurrency #/todo
 
 Блокировка мьютекса не *реентерабельна* (не позволяет бло­кировать уже заблокированный мьютекс)
 

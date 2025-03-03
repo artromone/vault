@@ -1,4 +1,4 @@
-#prog/golang #prog #SYNC
+#prog/golang #prog #prog/concurrency 
 
 Атомарные операции опираются на инструкции процессора, такие как:
 

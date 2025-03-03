@@ -1,4 +1,4 @@
-#prog #prog/golang #prog/golang/array #todo
+#prog #prog/golang #prog/golang/array #/todo
 
 По умолчанию элементам новой переменной массива изначально присваиваются нулевые значения типа элемента (как и отдельно взятым этим типам):
 

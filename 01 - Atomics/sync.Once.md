@@ -1,4 +1,4 @@
-#prog #prog/golang #prog/concurrency #todo
+#prog #prog/golang #prog/concurrency #/todo
 
 Концептуально `Once` состоит из мьютекса и логической перемен­ной, записывающей, имела ли инициализация место
 
