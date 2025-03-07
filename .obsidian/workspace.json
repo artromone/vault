@@ -8,16 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d7a1c0c2b78b159",
+            "id": "ccf420ba039e2b07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Atomics/Многозадачность в Golang.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Многозадачность в Golang"
+            }
+          },
+          {
+            "id": "9793745408807b42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Atomics/Контекст.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Контекст"
+            }
+          },
+          {
+            "id": "d45335bb79084368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Atomics/Какие процессы лучше всего оптимизируются при помощи горутин.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Какие процессы лучше всего оптимизируются при помощи горутин"
+            }
+          },
+          {
+            "id": "bff83eabdd736d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Atomics/Разница Data Race и Race Conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Разница Data Race и Race Conditions"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#/tmp",
+                "query": "горутин",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,7 +128,8 @@
               "title": "Trash explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "46cbbd307a41a97f",
@@ -94,6 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01 - Atomics/Какие процессы лучше всего оптимизируются при помощи горутин.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +170,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Какие процессы лучше всего оптимизируются при помощи горутин"
             }
           }
         ]
@@ -137,7 +186,7 @@
       {
         "id": "eaaf3e33ab083750",
         "type": "tabs",
-        "dimension": 22.199170124481324,
+        "dimension": 33.74870197300104,
         "children": [
           {
             "id": "9d42e3dcac51e477",
@@ -178,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Basket/Индексы.md",
+                "file": "01 - Atomics/Какие процессы лучше всего оптимизируются при помощи горутин.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Индексы"
+              "title": "Outline of Какие процессы лучше всего оптимизируются при помощи горутин"
             }
           },
           {
@@ -202,12 +251,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "aa3f8955d5b1a765",
         "type": "tabs",
-        "dimension": 77.80082987551867,
+        "dimension": 66.25129802699897,
         "children": [
           {
             "id": "6007ba5ebfc7cc6f",
@@ -241,34 +290,34 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "5d7a1c0c2b78b159",
+  "active": "d45335bb79084368",
   "lastOpenFiles": [
-    "01 - Atomics/Атомарность кода.md",
-    "01 - Atomics/SQL Aggregate.md",
-    "00 - System/@files_without_tags.md",
-    "01 - Atomics/В чем суть ООП.md",
-    "01 - Atomics/Ad-hoc-полиморфизм.md",
-    "00 - System/@broken_links_output.md",
+    "01 - Atomics/Горутины и каналы.md",
+    "01 - Atomics/Растущие стеки.md",
+    "01 - Atomics/Горутины решают проблемы параллелизма.md",
+    "01 - Atomics/Безопасность операций с мапами.md",
+    "01 - Atomics/Разница Data Race и Race Conditions.md",
+    "01 - Atomics/Гонка данных в Golang (data race).md",
+    "01 - Atomics/Контекст.md",
+    "01 - Atomics/Эвакуация в мапе.md",
+    "01 - Atomics/Коллизии.md",
     "00 - System/@orphaned_files_output.md",
-    "01 - Atomics/Полиморфизм в Golang.md",
-    "01 - Atomics/Проблемы интерфейсов в Golang.md",
-    "01 - Atomics/Разница объявления через двоеточие и равно и var.md",
-    "01 - Atomics/Редактирование slice.md",
-    "01 - Atomics/Функция init запускается при импортировании пакета первом.md",
-    "06 - Reference/разное 4.md",
-    "06 - Reference/разное 3.md",
-    "06 - Reference/разное 2.md",
-    "06 - Reference/Собесы авито.md",
-    "06 - Reference/Разное.md",
-    "06 - Reference/Пред место работы нейронки2.md",
-    "06 - Reference/Пред место работы нейронки.md",
-    "06 - Reference/Легенда пред место работы.md",
-    "06 - Reference/Компании, в которых мог работать.md",
-    "06 - Reference/Запрос3.md",
-    "06 - Reference/Запрос.md",
-    "06 - Reference/Весь опыт работы не связанный с Go нейронками2.md",
-    "06 - Reference/Весь опыт работы не связанный с Go нейронками.md",
-    "00 - System/@empty_files.md",
+    "01 - Atomics/Мапа.md",
+    "01 - Atomics/Операции с мапами.md",
+    "01 - Atomics/Как данные хранятся и ищутся.md",
+    "01 - Atomics/Планировщик Go.md",
+    "01 - Atomics/Многозадачность в Golang.md",
+    "01 - Atomics/Состояние гонки (Race Condition).md",
+    "01 - Atomics/Сборщик мусора.md",
+    "01 - Atomics/Интерфейс с нулевым указателем не является нулевым.md",
+    "01 - Atomics/Аксиомы работы с каналами.md",
+    "01 - Atomics/recover.md",
+    "01 - Atomics/type assetion.md",
+    "01 - Atomics/sync.Once.md",
+    "01 - Atomics/RAII.md",
+    "01 - Atomics/RISC.md",
+    "02 - Basket/Latency и Responce Time.md",
+    "02 - Basket/Throughput.md",
     "03 - Assets/canvas/YouTrackFlow.canvas",
     "03 - Assets/image/Формат ответа DNS-1741011851338.jpeg",
     "03 - Assets/image/Формат ответа DNS-1741011786128.jpeg",
